@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+raw_code/
+raw_input/
+raw_output/
+old_code/
+old_output/
+
+.DS_Store
+.Rdata
+.httr-oauth
+.quarto
