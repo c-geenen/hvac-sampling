@@ -1,4 +1,4 @@
-## Centralised Air Sampling From a Ventilation System for the Surveillance of Respiratory Pathogens
+## Centralised air sampling from a ventilation system for the surveillance of respiratory pathogens
 The results of the paper can be reproduced with the code in this repository.
 
 **Authors:** Michiel Happaerts, Caspar Geenen, Jade Michiels, Sarah Gorissen, Jens Swinnen, Kurt Beuselinck, Lies Laenen, Joren Raymenants, Natalie Lorent, Sien Ombelet, Els Keyaerts, Emmanuel André
