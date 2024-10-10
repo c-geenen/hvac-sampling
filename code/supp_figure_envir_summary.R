@@ -79,3 +79,4 @@ ggplot(envir_data, aes(location, mean, colour=sample_type)) +
   )
 
 ggsave("output/supp_figure_envir_summary.png", width=7, height=8)
+ggsave("output/supp_figure_envir_summary.pdf", width=7, height=8)

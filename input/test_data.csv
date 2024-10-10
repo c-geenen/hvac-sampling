@@ -1,0 +1,2817 @@
+samplingDate,location,pathogen,detected,Ct_value
+2023-02-22,2,influenza A virus,FALSE,NA
+2023-02-22,2,influenza B virus,FALSE,NA
+2023-02-22,2,respiratory syncytial virus,FALSE,NA
+2023-02-22,2,*Human metapneumovirus*,FALSE,NA
+2023-02-22,2,human parainfluenza virus 1,FALSE,NA
+2023-02-22,2,human parainfluenza virus 2,FALSE,NA
+2023-02-22,2,human parainfluenza virus 3,FALSE,NA
+2023-02-22,2,human parainfluenza virus 4,FALSE,NA
+2023-02-22,2,human adenovirus,FALSE,NA
+2023-02-22,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-02-22,2,human cytomegalovirus,FALSE,NA
+2023-02-22,2,human parechovirus,FALSE,NA
+2023-02-22,2,*Human coronavirus NL63*,FALSE,NA
+2023-02-22,2,*Human coronavirus 229E*,FALSE,NA
+2023-02-22,2,*Human coronavirus OC43*,FALSE,NA
+2023-02-22,2,enterovirus D68,FALSE,NA
+2023-02-22,2,herpes simplex virus type 1,FALSE,NA
+2023-02-22,2,herpes simplex virus type 2,FALSE,NA
+2023-02-22,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-22,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-22,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-22,2,*Coxiella burnetii*,FALSE,NA
+2023-02-22,2,MERS-CoV,FALSE,NA
+2023-02-22,2,*Pneumocystis jirovecii*,TRUE,35.9
+2023-02-22,2,*Chlamydia pneumoniae*,TRUE,40.7
+2023-02-22,2,*Chlamydia psittaci*,TRUE,44.7
+2023-02-22,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-22,2,human bocavirus,FALSE,NA
+2023-02-22,2,*Legionalla pneumophila*,FALSE,NA
+2023-02-22,HVAC,influenza A virus,FALSE,NA
+2023-02-22,HVAC,influenza B virus,FALSE,NA
+2023-02-22,HVAC,respiratory syncytial virus,FALSE,NA
+2023-02-22,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-02-22,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-02-22,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-02-22,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-02-22,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-02-22,HVAC,human adenovirus,FALSE,NA
+2023-02-22,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-02-22,HVAC,human cytomegalovirus,FALSE,NA
+2023-02-22,HVAC,human parechovirus,FALSE,NA
+2023-02-22,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-02-22,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-02-22,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-02-22,HVAC,enterovirus D68,FALSE,NA
+2023-02-22,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-02-22,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-02-22,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-22,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-22,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-22,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-02-22,HVAC,MERS-CoV,FALSE,NA
+2023-02-22,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-02-22,HVAC,*Chlamydia pneumoniae*,TRUE,40.1
+2023-02-22,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-02-22,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-22,HVAC,human bocavirus,FALSE,NA
+2023-02-22,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-02-22,3,influenza A virus,FALSE,NA
+2023-02-22,3,influenza B virus,FALSE,NA
+2023-02-22,3,respiratory syncytial virus,FALSE,NA
+2023-02-22,3,*Human metapneumovirus*,FALSE,NA
+2023-02-22,3,human parainfluenza virus 1,FALSE,NA
+2023-02-22,3,human parainfluenza virus 2,FALSE,NA
+2023-02-22,3,human parainfluenza virus 3,FALSE,NA
+2023-02-22,3,human parainfluenza virus 4,FALSE,NA
+2023-02-22,3,human adenovirus,FALSE,NA
+2023-02-22,3,human enterovirus (incl. rhinovirus),TRUE,35.7
+2023-02-22,3,human cytomegalovirus,FALSE,NA
+2023-02-22,3,human parechovirus,FALSE,NA
+2023-02-22,3,*Human coronavirus NL63*,FALSE,NA
+2023-02-22,3,*Human coronavirus 229E*,FALSE,NA
+2023-02-22,3,*Human coronavirus OC43*,FALSE,NA
+2023-02-22,3,enterovirus D68,FALSE,NA
+2023-02-22,3,herpes simplex virus type 1,TRUE,36.3
+2023-02-22,3,herpes simplex virus type 2,FALSE,NA
+2023-02-22,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-22,3,*Human coronavirus HKU-1*,TRUE,35.7
+2023-02-22,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-22,3,*Coxiella burnetii*,FALSE,NA
+2023-02-22,3,MERS-CoV,FALSE,NA
+2023-02-22,3,*Pneumocystis jirovecii*,TRUE,35.3
+2023-02-22,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-02-22,3,*Chlamydia psittaci*,FALSE,NA
+2023-02-22,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-22,3,human bocavirus,FALSE,NA
+2023-02-22,3,*Legionalla pneumophila*,FALSE,NA
+2023-02-22,1,influenza A virus,FALSE,NA
+2023-02-22,1,influenza B virus,FALSE,NA
+2023-02-22,1,respiratory syncytial virus,FALSE,NA
+2023-02-22,1,*Human metapneumovirus*,FALSE,NA
+2023-02-22,1,human parainfluenza virus 1,FALSE,NA
+2023-02-22,1,human parainfluenza virus 2,FALSE,NA
+2023-02-22,1,human parainfluenza virus 3,FALSE,NA
+2023-02-22,1,human parainfluenza virus 4,FALSE,NA
+2023-02-22,1,human adenovirus,FALSE,NA
+2023-02-22,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-02-22,1,human cytomegalovirus,FALSE,NA
+2023-02-22,1,human parechovirus,FALSE,NA
+2023-02-22,1,*Human coronavirus NL63*,FALSE,NA
+2023-02-22,1,*Human coronavirus 229E*,FALSE,NA
+2023-02-22,1,*Human coronavirus OC43*,FALSE,NA
+2023-02-22,1,enterovirus D68,FALSE,NA
+2023-02-22,1,herpes simplex virus type 1,FALSE,NA
+2023-02-22,1,herpes simplex virus type 2,FALSE,NA
+2023-02-22,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-22,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-22,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-22,1,*Coxiella burnetii*,FALSE,NA
+2023-02-22,1,MERS-CoV,FALSE,NA
+2023-02-22,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-02-22,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-02-22,1,*Chlamydia psittaci*,FALSE,NA
+2023-02-22,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-22,1,human bocavirus,FALSE,NA
+2023-02-22,1,*Legionalla pneumophila*,FALSE,NA
+2023-02-21,HVAC,influenza A virus,FALSE,NA
+2023-02-21,HVAC,influenza B virus,FALSE,NA
+2023-02-21,HVAC,respiratory syncytial virus,FALSE,NA
+2023-02-21,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-02-21,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-02-21,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-02-21,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-02-21,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-02-21,HVAC,human adenovirus,FALSE,NA
+2023-02-21,HVAC,human enterovirus (incl. rhinovirus),TRUE,37
+2023-02-21,HVAC,human cytomegalovirus,FALSE,NA
+2023-02-21,HVAC,human parechovirus,FALSE,NA
+2023-02-21,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-02-21,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-02-21,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-02-21,HVAC,enterovirus D68,FALSE,NA
+2023-02-21,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-02-21,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-02-21,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-21,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-21,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-21,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-02-21,HVAC,MERS-CoV,FALSE,NA
+2023-02-21,HVAC,*Pneumocystis jirovecii*,TRUE,34.5
+2023-02-21,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-02-21,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-02-21,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-21,HVAC,human bocavirus,FALSE,NA
+2023-02-21,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-02-21,2,influenza A virus,FALSE,NA
+2023-02-21,2,influenza B virus,FALSE,NA
+2023-02-21,2,respiratory syncytial virus,FALSE,NA
+2023-02-21,2,*Human metapneumovirus*,FALSE,NA
+2023-02-21,2,human parainfluenza virus 1,FALSE,NA
+2023-02-21,2,human parainfluenza virus 2,FALSE,NA
+2023-02-21,2,human parainfluenza virus 3,FALSE,NA
+2023-02-21,2,human parainfluenza virus 4,FALSE,NA
+2023-02-21,2,human adenovirus,TRUE,36.8
+2023-02-21,2,human enterovirus (incl. rhinovirus),TRUE,32.6
+2023-02-21,2,human cytomegalovirus,FALSE,NA
+2023-02-21,2,human parechovirus,FALSE,NA
+2023-02-21,2,*Human coronavirus NL63*,FALSE,NA
+2023-02-21,2,*Human coronavirus 229E*,FALSE,NA
+2023-02-21,2,*Human coronavirus OC43*,FALSE,NA
+2023-02-21,2,enterovirus D68,FALSE,NA
+2023-02-21,2,herpes simplex virus type 1,TRUE,36.2
+2023-02-21,2,herpes simplex virus type 2,FALSE,NA
+2023-02-21,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-21,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-21,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-21,2,*Coxiella burnetii*,FALSE,NA
+2023-02-21,2,MERS-CoV,FALSE,NA
+2023-02-21,2,*Pneumocystis jirovecii*,TRUE,34.2
+2023-02-21,2,*Chlamydia pneumoniae*,TRUE,37.6
+2023-02-21,2,*Chlamydia psittaci*,FALSE,NA
+2023-02-21,2,*Streptococcus pneumoniae*,TRUE,34.9
+2023-02-21,2,human bocavirus,FALSE,NA
+2023-02-21,2,*Legionalla pneumophila*,FALSE,NA
+2023-02-21,3,influenza A virus,FALSE,NA
+2023-02-21,3,influenza B virus,FALSE,NA
+2023-02-21,3,respiratory syncytial virus,FALSE,NA
+2023-02-21,3,*Human metapneumovirus*,FALSE,NA
+2023-02-21,3,human parainfluenza virus 1,FALSE,NA
+2023-02-21,3,human parainfluenza virus 2,FALSE,NA
+2023-02-21,3,human parainfluenza virus 3,FALSE,NA
+2023-02-21,3,human parainfluenza virus 4,FALSE,NA
+2023-02-21,3,human adenovirus,FALSE,NA
+2023-02-21,3,human enterovirus (incl. rhinovirus),TRUE,36.9
+2023-02-21,3,human cytomegalovirus,FALSE,NA
+2023-02-21,3,human parechovirus,FALSE,NA
+2023-02-21,3,*Human coronavirus NL63*,FALSE,NA
+2023-02-21,3,*Human coronavirus 229E*,FALSE,NA
+2023-02-21,3,*Human coronavirus OC43*,FALSE,NA
+2023-02-21,3,enterovirus D68,FALSE,NA
+2023-02-21,3,herpes simplex virus type 1,TRUE,38
+2023-02-21,3,herpes simplex virus type 2,FALSE,NA
+2023-02-21,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-21,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-21,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-21,3,*Coxiella burnetii*,FALSE,NA
+2023-02-21,3,MERS-CoV,FALSE,NA
+2023-02-21,3,*Pneumocystis jirovecii*,TRUE,34.9
+2023-02-21,3,*Chlamydia pneumoniae*,TRUE,39.9
+2023-02-21,3,*Chlamydia psittaci*,FALSE,NA
+2023-02-21,3,*Streptococcus pneumoniae*,TRUE,36.6
+2023-02-21,3,human bocavirus,FALSE,NA
+2023-02-21,3,*Legionalla pneumophila*,FALSE,NA
+2023-02-21,1,influenza A virus,FALSE,NA
+2023-02-21,1,influenza B virus,FALSE,NA
+2023-02-21,1,respiratory syncytial virus,FALSE,NA
+2023-02-21,1,*Human metapneumovirus*,FALSE,NA
+2023-02-21,1,human parainfluenza virus 1,FALSE,NA
+2023-02-21,1,human parainfluenza virus 2,FALSE,NA
+2023-02-21,1,human parainfluenza virus 3,FALSE,NA
+2023-02-21,1,human parainfluenza virus 4,FALSE,NA
+2023-02-21,1,human adenovirus,FALSE,NA
+2023-02-21,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-02-21,1,human cytomegalovirus,FALSE,NA
+2023-02-21,1,human parechovirus,FALSE,NA
+2023-02-21,1,*Human coronavirus NL63*,FALSE,NA
+2023-02-21,1,*Human coronavirus 229E*,FALSE,NA
+2023-02-21,1,*Human coronavirus OC43*,FALSE,NA
+2023-02-21,1,enterovirus D68,FALSE,NA
+2023-02-21,1,herpes simplex virus type 1,FALSE,NA
+2023-02-21,1,herpes simplex virus type 2,FALSE,NA
+2023-02-21,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-02-21,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-02-21,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-02-21,1,*Coxiella burnetii*,FALSE,NA
+2023-02-21,1,MERS-CoV,FALSE,NA
+2023-02-21,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-02-21,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-02-21,1,*Chlamydia psittaci*,FALSE,NA
+2023-02-21,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-02-21,1,human bocavirus,FALSE,NA
+2023-02-21,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-01,HVAC,influenza A virus,FALSE,NA
+2023-03-01,HVAC,influenza B virus,FALSE,NA
+2023-03-01,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-01,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-01,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-01,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-01,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-01,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-01,HVAC,human adenovirus,FALSE,NA
+2023-03-01,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-01,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-01,HVAC,human parechovirus,FALSE,NA
+2023-03-01,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-01,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-01,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-03-01,HVAC,enterovirus D68,FALSE,NA
+2023-03-01,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-03-01,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-01,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-01,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-01,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-01,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-01,HVAC,MERS-CoV,FALSE,NA
+2023-03-01,HVAC,*Pneumocystis jirovecii*,TRUE,35.1
+2023-03-01,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-01,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-01,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-01,HVAC,human bocavirus,FALSE,NA
+2023-03-01,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-01,2,influenza A virus,FALSE,NA
+2023-03-01,2,influenza B virus,FALSE,NA
+2023-03-01,2,respiratory syncytial virus,FALSE,NA
+2023-03-01,2,*Human metapneumovirus*,FALSE,NA
+2023-03-01,2,human parainfluenza virus 1,FALSE,NA
+2023-03-01,2,human parainfluenza virus 2,FALSE,NA
+2023-03-01,2,human parainfluenza virus 3,FALSE,NA
+2023-03-01,2,human parainfluenza virus 4,FALSE,NA
+2023-03-01,2,human adenovirus,FALSE,NA
+2023-03-01,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-01,2,human cytomegalovirus,FALSE,NA
+2023-03-01,2,human parechovirus,FALSE,NA
+2023-03-01,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-01,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-01,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-01,2,enterovirus D68,FALSE,NA
+2023-03-01,2,herpes simplex virus type 1,FALSE,NA
+2023-03-01,2,herpes simplex virus type 2,FALSE,NA
+2023-03-01,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-01,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-01,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-01,2,*Coxiella burnetii*,FALSE,NA
+2023-03-01,2,MERS-CoV,FALSE,NA
+2023-03-01,2,*Pneumocystis jirovecii*,TRUE,34.4
+2023-03-01,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-01,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-01,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-01,2,human bocavirus,FALSE,NA
+2023-03-01,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-01,3,influenza A virus,FALSE,NA
+2023-03-01,3,influenza B virus,FALSE,NA
+2023-03-01,3,respiratory syncytial virus,FALSE,NA
+2023-03-01,3,*Human metapneumovirus*,FALSE,NA
+2023-03-01,3,human parainfluenza virus 1,FALSE,NA
+2023-03-01,3,human parainfluenza virus 2,FALSE,NA
+2023-03-01,3,human parainfluenza virus 3,FALSE,NA
+2023-03-01,3,human parainfluenza virus 4,FALSE,NA
+2023-03-01,3,human adenovirus,FALSE,NA
+2023-03-01,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-01,3,human cytomegalovirus,FALSE,NA
+2023-03-01,3,human parechovirus,FALSE,NA
+2023-03-01,3,*Human coronavirus NL63*,TRUE,38.3
+2023-03-01,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-01,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-01,3,enterovirus D68,FALSE,NA
+2023-03-01,3,herpes simplex virus type 1,FALSE,NA
+2023-03-01,3,herpes simplex virus type 2,FALSE,NA
+2023-03-01,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-01,3,*Human coronavirus HKU-1*,TRUE,36.6
+2023-03-01,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-01,3,*Coxiella burnetii*,FALSE,NA
+2023-03-01,3,MERS-CoV,FALSE,NA
+2023-03-01,3,*Pneumocystis jirovecii*,TRUE,33.7
+2023-03-01,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-01,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-01,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-01,3,human bocavirus,FALSE,NA
+2023-03-01,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-01,1,influenza A virus,FALSE,NA
+2023-03-01,1,influenza B virus,FALSE,NA
+2023-03-01,1,respiratory syncytial virus,FALSE,NA
+2023-03-01,1,*Human metapneumovirus*,FALSE,NA
+2023-03-01,1,human parainfluenza virus 1,FALSE,NA
+2023-03-01,1,human parainfluenza virus 2,FALSE,NA
+2023-03-01,1,human parainfluenza virus 3,FALSE,NA
+2023-03-01,1,human parainfluenza virus 4,FALSE,NA
+2023-03-01,1,human adenovirus,FALSE,NA
+2023-03-01,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-01,1,human cytomegalovirus,FALSE,NA
+2023-03-01,1,human parechovirus,FALSE,NA
+2023-03-01,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-01,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-01,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-01,1,enterovirus D68,FALSE,NA
+2023-03-01,1,herpes simplex virus type 1,FALSE,NA
+2023-03-01,1,herpes simplex virus type 2,FALSE,NA
+2023-03-01,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-01,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-01,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-01,1,*Coxiella burnetii*,FALSE,NA
+2023-03-01,1,MERS-CoV,FALSE,NA
+2023-03-01,1,*Pneumocystis jirovecii*,TRUE,32.7
+2023-03-01,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-01,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-01,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-01,1,human bocavirus,FALSE,NA
+2023-03-01,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-03,HVAC,influenza A virus,FALSE,NA
+2023-03-03,HVAC,influenza B virus,FALSE,NA
+2023-03-03,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-03,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-03,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-03,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-03,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-03,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-03,HVAC,human adenovirus,FALSE,NA
+2023-03-03,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-03,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-03,HVAC,human parechovirus,FALSE,NA
+2023-03-03,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-03,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-03,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-03-03,HVAC,enterovirus D68,FALSE,NA
+2023-03-03,HVAC,herpes simplex virus type 1,TRUE,35.8
+2023-03-03,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-03,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-03,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-03,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-03,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-03,HVAC,MERS-CoV,FALSE,NA
+2023-03-03,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-03,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-03,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-03,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-03,HVAC,human bocavirus,FALSE,NA
+2023-03-03,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-03,3,influenza A virus,FALSE,NA
+2023-03-03,3,influenza B virus,FALSE,NA
+2023-03-03,3,respiratory syncytial virus,FALSE,NA
+2023-03-03,3,*Human metapneumovirus*,FALSE,NA
+2023-03-03,3,human parainfluenza virus 1,FALSE,NA
+2023-03-03,3,human parainfluenza virus 2,FALSE,NA
+2023-03-03,3,human parainfluenza virus 3,FALSE,NA
+2023-03-03,3,human parainfluenza virus 4,FALSE,NA
+2023-03-03,3,human adenovirus,FALSE,NA
+2023-03-03,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-03,3,human cytomegalovirus,FALSE,NA
+2023-03-03,3,human parechovirus,FALSE,NA
+2023-03-03,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-03,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-03,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-03,3,enterovirus D68,FALSE,NA
+2023-03-03,3,herpes simplex virus type 1,FALSE,NA
+2023-03-03,3,herpes simplex virus type 2,FALSE,NA
+2023-03-03,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-03,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-03,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-03,3,*Coxiella burnetii*,FALSE,NA
+2023-03-03,3,MERS-CoV,FALSE,NA
+2023-03-03,3,*Pneumocystis jirovecii*,TRUE,36.2
+2023-03-03,3,*Chlamydia pneumoniae*,TRUE,38.6
+2023-03-03,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-03,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-03,3,human bocavirus,FALSE,NA
+2023-03-03,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-03,1,influenza A virus,FALSE,NA
+2023-03-03,1,influenza B virus,FALSE,NA
+2023-03-03,1,respiratory syncytial virus,FALSE,NA
+2023-03-03,1,*Human metapneumovirus*,FALSE,NA
+2023-03-03,1,human parainfluenza virus 1,FALSE,NA
+2023-03-03,1,human parainfluenza virus 2,FALSE,NA
+2023-03-03,1,human parainfluenza virus 3,FALSE,NA
+2023-03-03,1,human parainfluenza virus 4,FALSE,NA
+2023-03-03,1,human adenovirus,FALSE,NA
+2023-03-03,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-03,1,human cytomegalovirus,FALSE,NA
+2023-03-03,1,human parechovirus,FALSE,NA
+2023-03-03,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-03,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-03,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-03,1,enterovirus D68,FALSE,NA
+2023-03-03,1,herpes simplex virus type 1,FALSE,NA
+2023-03-03,1,herpes simplex virus type 2,FALSE,NA
+2023-03-03,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-03,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-03,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-03,1,*Coxiella burnetii*,FALSE,NA
+2023-03-03,1,MERS-CoV,FALSE,NA
+2023-03-03,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-03,1,*Chlamydia pneumoniae*,TRUE,38.4
+2023-03-03,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-03,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-03,1,human bocavirus,FALSE,NA
+2023-03-03,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-03,2,influenza A virus,FALSE,NA
+2023-03-03,2,influenza B virus,FALSE,NA
+2023-03-03,2,respiratory syncytial virus,FALSE,NA
+2023-03-03,2,*Human metapneumovirus*,FALSE,NA
+2023-03-03,2,human parainfluenza virus 1,FALSE,NA
+2023-03-03,2,human parainfluenza virus 2,FALSE,NA
+2023-03-03,2,human parainfluenza virus 3,FALSE,NA
+2023-03-03,2,human parainfluenza virus 4,FALSE,NA
+2023-03-03,2,human adenovirus,FALSE,NA
+2023-03-03,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-03,2,human cytomegalovirus,FALSE,NA
+2023-03-03,2,human parechovirus,FALSE,NA
+2023-03-03,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-03,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-03,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-03,2,enterovirus D68,FALSE,NA
+2023-03-03,2,herpes simplex virus type 1,FALSE,NA
+2023-03-03,2,herpes simplex virus type 2,FALSE,NA
+2023-03-03,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-03,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-03,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-03,2,*Coxiella burnetii*,FALSE,NA
+2023-03-03,2,MERS-CoV,FALSE,NA
+2023-03-03,2,*Pneumocystis jirovecii*,TRUE,34.7
+2023-03-03,2,*Chlamydia pneumoniae*,TRUE,38.8
+2023-03-03,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-03,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-03,2,human bocavirus,FALSE,NA
+2023-03-03,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-13,HVAC,influenza A virus,FALSE,NA
+2023-03-13,HVAC,influenza B virus,FALSE,NA
+2023-03-13,HVAC,respiratory syncytial virus,TRUE,36.7
+2023-03-13,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-13,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-13,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-13,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-13,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-13,HVAC,human adenovirus,TRUE,38.5
+2023-03-13,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-13,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-13,HVAC,human parechovirus,FALSE,NA
+2023-03-13,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-13,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-13,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-03-13,HVAC,enterovirus D68,FALSE,NA
+2023-03-13,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-03-13,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-13,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-13,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-13,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-13,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-13,HVAC,MERS-CoV,FALSE,NA
+2023-03-13,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-13,HVAC,*Chlamydia pneumoniae*,TRUE,43.7
+2023-03-13,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-13,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-13,HVAC,human bocavirus,FALSE,NA
+2023-03-13,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-13,2,influenza A virus,FALSE,NA
+2023-03-13,2,influenza B virus,FALSE,NA
+2023-03-13,2,respiratory syncytial virus,FALSE,NA
+2023-03-13,2,*Human metapneumovirus*,FALSE,NA
+2023-03-13,2,human parainfluenza virus 1,FALSE,NA
+2023-03-13,2,human parainfluenza virus 2,FALSE,NA
+2023-03-13,2,human parainfluenza virus 3,FALSE,NA
+2023-03-13,2,human parainfluenza virus 4,FALSE,NA
+2023-03-13,2,human adenovirus,FALSE,NA
+2023-03-13,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-13,2,human cytomegalovirus,FALSE,NA
+2023-03-13,2,human parechovirus,FALSE,NA
+2023-03-13,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-13,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-13,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-13,2,enterovirus D68,FALSE,NA
+2023-03-13,2,herpes simplex virus type 1,FALSE,NA
+2023-03-13,2,herpes simplex virus type 2,FALSE,NA
+2023-03-13,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-13,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-13,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-13,2,*Coxiella burnetii*,FALSE,NA
+2023-03-13,2,MERS-CoV,FALSE,NA
+2023-03-13,2,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-13,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-13,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-13,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-13,2,human bocavirus,FALSE,NA
+2023-03-13,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-13,3,influenza A virus,FALSE,NA
+2023-03-13,3,influenza B virus,FALSE,NA
+2023-03-13,3,respiratory syncytial virus,FALSE,NA
+2023-03-13,3,*Human metapneumovirus*,FALSE,NA
+2023-03-13,3,human parainfluenza virus 1,FALSE,NA
+2023-03-13,3,human parainfluenza virus 2,FALSE,NA
+2023-03-13,3,human parainfluenza virus 3,FALSE,NA
+2023-03-13,3,human parainfluenza virus 4,FALSE,NA
+2023-03-13,3,human adenovirus,FALSE,NA
+2023-03-13,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-13,3,human cytomegalovirus,FALSE,NA
+2023-03-13,3,human parechovirus,FALSE,NA
+2023-03-13,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-13,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-13,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-13,3,enterovirus D68,FALSE,NA
+2023-03-13,3,herpes simplex virus type 1,FALSE,NA
+2023-03-13,3,herpes simplex virus type 2,FALSE,NA
+2023-03-13,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-13,3,*Human coronavirus HKU-1*,TRUE,36.6
+2023-03-13,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-13,3,*Coxiella burnetii*,FALSE,NA
+2023-03-13,3,MERS-CoV,FALSE,NA
+2023-03-13,3,*Pneumocystis jirovecii*,TRUE,36.6
+2023-03-13,3,*Chlamydia pneumoniae*,TRUE,43.5
+2023-03-13,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-13,3,*Streptococcus pneumoniae*,TRUE,35
+2023-03-13,3,human bocavirus,FALSE,NA
+2023-03-13,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-13,1,influenza A virus,FALSE,NA
+2023-03-13,1,influenza B virus,FALSE,NA
+2023-03-13,1,respiratory syncytial virus,FALSE,NA
+2023-03-13,1,*Human metapneumovirus*,FALSE,NA
+2023-03-13,1,human parainfluenza virus 1,FALSE,NA
+2023-03-13,1,human parainfluenza virus 2,FALSE,NA
+2023-03-13,1,human parainfluenza virus 3,FALSE,NA
+2023-03-13,1,human parainfluenza virus 4,FALSE,NA
+2023-03-13,1,human adenovirus,FALSE,NA
+2023-03-13,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-13,1,human cytomegalovirus,FALSE,NA
+2023-03-13,1,human parechovirus,FALSE,NA
+2023-03-13,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-13,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-13,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-13,1,enterovirus D68,FALSE,NA
+2023-03-13,1,herpes simplex virus type 1,FALSE,NA
+2023-03-13,1,herpes simplex virus type 2,FALSE,NA
+2023-03-13,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-13,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-13,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-13,1,*Coxiella burnetii*,FALSE,NA
+2023-03-13,1,MERS-CoV,FALSE,NA
+2023-03-13,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-13,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-13,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-13,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-13,1,human bocavirus,FALSE,NA
+2023-03-13,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-16,3,influenza A virus,FALSE,NA
+2023-03-16,3,influenza B virus,FALSE,NA
+2023-03-16,3,respiratory syncytial virus,FALSE,NA
+2023-03-16,3,*Human metapneumovirus*,FALSE,NA
+2023-03-16,3,human parainfluenza virus 1,FALSE,NA
+2023-03-16,3,human parainfluenza virus 2,FALSE,NA
+2023-03-16,3,human parainfluenza virus 3,FALSE,NA
+2023-03-16,3,human parainfluenza virus 4,FALSE,NA
+2023-03-16,3,human adenovirus,FALSE,NA
+2023-03-16,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-16,3,human cytomegalovirus,FALSE,NA
+2023-03-16,3,human parechovirus,FALSE,NA
+2023-03-16,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-16,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-16,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-16,3,enterovirus D68,FALSE,NA
+2023-03-16,3,herpes simplex virus type 1,FALSE,NA
+2023-03-16,3,herpes simplex virus type 2,FALSE,NA
+2023-03-16,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-16,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-16,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-16,3,*Coxiella burnetii*,FALSE,NA
+2023-03-16,3,MERS-CoV,FALSE,NA
+2023-03-16,3,*Pneumocystis jirovecii*,TRUE,35.2
+2023-03-16,3,*Chlamydia pneumoniae*,TRUE,40.5
+2023-03-16,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-16,3,*Streptococcus pneumoniae*,TRUE,35
+2023-03-16,3,human bocavirus,FALSE,NA
+2023-03-16,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-16,2,influenza A virus,FALSE,NA
+2023-03-16,2,influenza B virus,FALSE,NA
+2023-03-16,2,respiratory syncytial virus,FALSE,NA
+2023-03-16,2,*Human metapneumovirus*,FALSE,NA
+2023-03-16,2,human parainfluenza virus 1,FALSE,NA
+2023-03-16,2,human parainfluenza virus 2,FALSE,NA
+2023-03-16,2,human parainfluenza virus 3,FALSE,NA
+2023-03-16,2,human parainfluenza virus 4,FALSE,NA
+2023-03-16,2,human adenovirus,FALSE,NA
+2023-03-16,2,human enterovirus (incl. rhinovirus),TRUE,38
+2023-03-16,2,human cytomegalovirus,FALSE,NA
+2023-03-16,2,human parechovirus,FALSE,NA
+2023-03-16,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-16,2,*Human coronavirus 229E*,TRUE,36.8
+2023-03-16,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-16,2,enterovirus D68,FALSE,NA
+2023-03-16,2,herpes simplex virus type 1,TRUE,34.9
+2023-03-16,2,herpes simplex virus type 2,FALSE,NA
+2023-03-16,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-16,2,*Human coronavirus HKU-1*,TRUE,36.1
+2023-03-16,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-16,2,*Coxiella burnetii*,FALSE,NA
+2023-03-16,2,MERS-CoV,FALSE,NA
+2023-03-16,2,*Pneumocystis jirovecii*,TRUE,36.9
+2023-03-16,2,*Chlamydia pneumoniae*,TRUE,40.4
+2023-03-16,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-16,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-16,2,human bocavirus,FALSE,NA
+2023-03-16,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-16,1,influenza A virus,FALSE,NA
+2023-03-16,1,influenza B virus,FALSE,NA
+2023-03-16,1,respiratory syncytial virus,FALSE,NA
+2023-03-16,1,*Human metapneumovirus*,FALSE,NA
+2023-03-16,1,human parainfluenza virus 1,FALSE,NA
+2023-03-16,1,human parainfluenza virus 2,FALSE,NA
+2023-03-16,1,human parainfluenza virus 3,FALSE,NA
+2023-03-16,1,human parainfluenza virus 4,FALSE,NA
+2023-03-16,1,human adenovirus,FALSE,NA
+2023-03-16,1,human enterovirus (incl. rhinovirus),TRUE,35.2
+2023-03-16,1,human cytomegalovirus,FALSE,NA
+2023-03-16,1,human parechovirus,FALSE,NA
+2023-03-16,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-16,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-16,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-16,1,enterovirus D68,FALSE,NA
+2023-03-16,1,herpes simplex virus type 1,FALSE,NA
+2023-03-16,1,herpes simplex virus type 2,FALSE,NA
+2023-03-16,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-16,1,*Human coronavirus HKU-1*,TRUE,36.5
+2023-03-16,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-16,1,*Coxiella burnetii*,FALSE,NA
+2023-03-16,1,MERS-CoV,FALSE,NA
+2023-03-16,1,*Pneumocystis jirovecii*,TRUE,36
+2023-03-16,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-16,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-16,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-16,1,human bocavirus,FALSE,NA
+2023-03-16,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-16,HVAC,influenza A virus,FALSE,NA
+2023-03-16,HVAC,influenza B virus,FALSE,NA
+2023-03-16,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-16,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-16,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-16,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-16,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-16,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-16,HVAC,human adenovirus,FALSE,NA
+2023-03-16,HVAC,human enterovirus (incl. rhinovirus),TRUE,36.3
+2023-03-16,HVAC,human cytomegalovirus,TRUE,34.8
+2023-03-16,HVAC,human parechovirus,FALSE,NA
+2023-03-16,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-16,HVAC,*Human coronavirus 229E*,TRUE,37
+2023-03-16,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-03-16,HVAC,enterovirus D68,FALSE,NA
+2023-03-16,HVAC,herpes simplex virus type 1,TRUE,37.1
+2023-03-16,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-16,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-16,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-16,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-16,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-16,HVAC,MERS-CoV,FALSE,NA
+2023-03-16,HVAC,*Pneumocystis jirovecii*,TRUE,35
+2023-03-16,HVAC,*Chlamydia pneumoniae*,TRUE,40.4
+2023-03-16,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-16,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-16,HVAC,human bocavirus,FALSE,NA
+2023-03-16,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-24,HVAC,influenza A virus,FALSE,NA
+2023-03-24,HVAC,influenza B virus,FALSE,NA
+2023-03-24,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-24,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-24,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-24,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-24,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-24,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-24,HVAC,human adenovirus,FALSE,NA
+2023-03-24,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-24,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-24,HVAC,human parechovirus,FALSE,NA
+2023-03-24,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-24,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-24,HVAC,*Human coronavirus OC43*,TRUE,36.8
+2023-03-24,HVAC,enterovirus D68,FALSE,NA
+2023-03-24,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-03-24,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-24,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-24,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-24,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-24,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-24,HVAC,MERS-CoV,FALSE,NA
+2023-03-24,HVAC,*Pneumocystis jirovecii*,TRUE,38.7
+2023-03-24,HVAC,*Chlamydia pneumoniae*,TRUE,37.8
+2023-03-24,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-24,HVAC,*Streptococcus pneumoniae*,TRUE,34
+2023-03-24,HVAC,human bocavirus,FALSE,NA
+2023-03-24,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-24,2,influenza A virus,FALSE,NA
+2023-03-24,2,influenza B virus,FALSE,NA
+2023-03-24,2,respiratory syncytial virus,FALSE,NA
+2023-03-24,2,*Human metapneumovirus*,FALSE,NA
+2023-03-24,2,human parainfluenza virus 1,FALSE,NA
+2023-03-24,2,human parainfluenza virus 2,FALSE,NA
+2023-03-24,2,human parainfluenza virus 3,FALSE,NA
+2023-03-24,2,human parainfluenza virus 4,FALSE,NA
+2023-03-24,2,human adenovirus,TRUE,36
+2023-03-24,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-24,2,human cytomegalovirus,FALSE,NA
+2023-03-24,2,human parechovirus,FALSE,NA
+2023-03-24,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-24,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-24,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-24,2,enterovirus D68,FALSE,NA
+2023-03-24,2,herpes simplex virus type 1,FALSE,NA
+2023-03-24,2,herpes simplex virus type 2,FALSE,NA
+2023-03-24,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-24,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-24,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-24,2,*Coxiella burnetii*,FALSE,NA
+2023-03-24,2,MERS-CoV,FALSE,NA
+2023-03-24,2,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-24,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-24,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-24,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-24,2,human bocavirus,FALSE,NA
+2023-03-24,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-24,3,influenza A virus,FALSE,NA
+2023-03-24,3,influenza B virus,FALSE,NA
+2023-03-24,3,respiratory syncytial virus,FALSE,NA
+2023-03-24,3,*Human metapneumovirus*,FALSE,NA
+2023-03-24,3,human parainfluenza virus 1,FALSE,NA
+2023-03-24,3,human parainfluenza virus 2,FALSE,NA
+2023-03-24,3,human parainfluenza virus 3,FALSE,NA
+2023-03-24,3,human parainfluenza virus 4,FALSE,NA
+2023-03-24,3,human adenovirus,FALSE,NA
+2023-03-24,3,human enterovirus (incl. rhinovirus),TRUE,36.1
+2023-03-24,3,human cytomegalovirus,FALSE,NA
+2023-03-24,3,human parechovirus,FALSE,NA
+2023-03-24,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-24,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-24,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-24,3,enterovirus D68,FALSE,NA
+2023-03-24,3,herpes simplex virus type 1,FALSE,NA
+2023-03-24,3,herpes simplex virus type 2,FALSE,NA
+2023-03-24,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-24,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-24,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-24,3,*Coxiella burnetii*,FALSE,NA
+2023-03-24,3,MERS-CoV,FALSE,NA
+2023-03-24,3,*Pneumocystis jirovecii*,TRUE,35.1
+2023-03-24,3,*Chlamydia pneumoniae*,TRUE,40.1
+2023-03-24,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-24,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-24,3,human bocavirus,FALSE,NA
+2023-03-24,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-24,1,influenza A virus,FALSE,NA
+2023-03-24,1,influenza B virus,FALSE,NA
+2023-03-24,1,respiratory syncytial virus,FALSE,NA
+2023-03-24,1,*Human metapneumovirus*,FALSE,NA
+2023-03-24,1,human parainfluenza virus 1,FALSE,NA
+2023-03-24,1,human parainfluenza virus 2,FALSE,NA
+2023-03-24,1,human parainfluenza virus 3,FALSE,NA
+2023-03-24,1,human parainfluenza virus 4,FALSE,NA
+2023-03-24,1,human adenovirus,FALSE,NA
+2023-03-24,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-24,1,human cytomegalovirus,FALSE,NA
+2023-03-24,1,human parechovirus,FALSE,NA
+2023-03-24,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-24,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-24,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-24,1,enterovirus D68,FALSE,NA
+2023-03-24,1,herpes simplex virus type 1,FALSE,NA
+2023-03-24,1,herpes simplex virus type 2,FALSE,NA
+2023-03-24,1,SARS-CoV-2 (respiratory panel),TRUE,38.1
+2023-03-24,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-24,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-24,1,*Coxiella burnetii*,FALSE,NA
+2023-03-24,1,MERS-CoV,FALSE,NA
+2023-03-24,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-24,1,*Chlamydia pneumoniae*,TRUE,40.9
+2023-03-24,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-24,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-24,1,human bocavirus,FALSE,NA
+2023-03-24,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-22,HVAC,influenza A virus,FALSE,NA
+2023-03-22,HVAC,influenza B virus,FALSE,NA
+2023-03-22,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-22,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-22,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-22,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-22,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-22,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-22,HVAC,human adenovirus,FALSE,NA
+2023-03-22,HVAC,human enterovirus (incl. rhinovirus),TRUE,37.3
+2023-03-22,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-22,HVAC,human parechovirus,FALSE,NA
+2023-03-22,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-22,HVAC,*Human coronavirus 229E*,TRUE,36.9
+2023-03-22,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-03-22,HVAC,enterovirus D68,FALSE,NA
+2023-03-22,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-03-22,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-22,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-22,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-22,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-22,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-22,HVAC,MERS-CoV,FALSE,NA
+2023-03-22,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-22,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-22,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-22,HVAC,*Streptococcus pneumoniae*,TRUE,35.9
+2023-03-22,HVAC,human bocavirus,FALSE,NA
+2023-03-22,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-22,3,influenza A virus,FALSE,NA
+2023-03-22,3,influenza B virus,FALSE,NA
+2023-03-22,3,respiratory syncytial virus,FALSE,NA
+2023-03-22,3,*Human metapneumovirus*,FALSE,NA
+2023-03-22,3,human parainfluenza virus 1,FALSE,NA
+2023-03-22,3,human parainfluenza virus 2,FALSE,NA
+2023-03-22,3,human parainfluenza virus 3,FALSE,NA
+2023-03-22,3,human parainfluenza virus 4,FALSE,NA
+2023-03-22,3,human adenovirus,FALSE,NA
+2023-03-22,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-22,3,human cytomegalovirus,FALSE,NA
+2023-03-22,3,human parechovirus,FALSE,NA
+2023-03-22,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-22,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-22,3,*Human coronavirus OC43*,TRUE,34.6
+2023-03-22,3,enterovirus D68,FALSE,NA
+2023-03-22,3,herpes simplex virus type 1,TRUE,36.5
+2023-03-22,3,herpes simplex virus type 2,FALSE,NA
+2023-03-22,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-22,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-22,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-22,3,*Coxiella burnetii*,FALSE,NA
+2023-03-22,3,MERS-CoV,FALSE,NA
+2023-03-22,3,*Pneumocystis jirovecii*,TRUE,36.4
+2023-03-22,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-22,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-22,3,*Streptococcus pneumoniae*,TRUE,35
+2023-03-22,3,human bocavirus,FALSE,NA
+2023-03-22,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-22,2,influenza A virus,FALSE,NA
+2023-03-22,2,influenza B virus,FALSE,NA
+2023-03-22,2,respiratory syncytial virus,FALSE,NA
+2023-03-22,2,*Human metapneumovirus*,FALSE,NA
+2023-03-22,2,human parainfluenza virus 1,FALSE,NA
+2023-03-22,2,human parainfluenza virus 2,FALSE,NA
+2023-03-22,2,human parainfluenza virus 3,FALSE,NA
+2023-03-22,2,human parainfluenza virus 4,FALSE,NA
+2023-03-22,2,human adenovirus,FALSE,NA
+2023-03-22,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-22,2,human cytomegalovirus,FALSE,NA
+2023-03-22,2,human parechovirus,FALSE,NA
+2023-03-22,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-22,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-22,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-22,2,enterovirus D68,FALSE,NA
+2023-03-22,2,herpes simplex virus type 1,FALSE,NA
+2023-03-22,2,herpes simplex virus type 2,FALSE,NA
+2023-03-22,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-22,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-22,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-22,2,*Coxiella burnetii*,FALSE,NA
+2023-03-22,2,MERS-CoV,FALSE,NA
+2023-03-22,2,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-22,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-22,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-22,2,*Streptococcus pneumoniae*,TRUE,35.7
+2023-03-22,2,human bocavirus,FALSE,NA
+2023-03-22,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-22,1,influenza A virus,FALSE,NA
+2023-03-22,1,influenza B virus,FALSE,NA
+2023-03-22,1,respiratory syncytial virus,FALSE,NA
+2023-03-22,1,*Human metapneumovirus*,FALSE,NA
+2023-03-22,1,human parainfluenza virus 1,FALSE,NA
+2023-03-22,1,human parainfluenza virus 2,FALSE,NA
+2023-03-22,1,human parainfluenza virus 3,FALSE,NA
+2023-03-22,1,human parainfluenza virus 4,FALSE,NA
+2023-03-22,1,human adenovirus,FALSE,NA
+2023-03-22,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-22,1,human cytomegalovirus,FALSE,NA
+2023-03-22,1,human parechovirus,FALSE,NA
+2023-03-22,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-22,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-22,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-22,1,enterovirus D68,FALSE,NA
+2023-03-22,1,herpes simplex virus type 1,FALSE,NA
+2023-03-22,1,herpes simplex virus type 2,FALSE,NA
+2023-03-22,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-22,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-22,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-22,1,*Coxiella burnetii*,FALSE,NA
+2023-03-22,1,MERS-CoV,FALSE,NA
+2023-03-22,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-22,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-22,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-22,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-22,1,human bocavirus,FALSE,NA
+2023-03-22,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-29,1,influenza A virus,FALSE,NA
+2023-03-29,1,influenza B virus,FALSE,NA
+2023-03-29,1,respiratory syncytial virus,FALSE,NA
+2023-03-29,1,*Human metapneumovirus*,FALSE,NA
+2023-03-29,1,human parainfluenza virus 1,FALSE,NA
+2023-03-29,1,human parainfluenza virus 2,FALSE,NA
+2023-03-29,1,human parainfluenza virus 3,FALSE,NA
+2023-03-29,1,human parainfluenza virus 4,FALSE,NA
+2023-03-29,1,human adenovirus,FALSE,NA
+2023-03-29,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-29,1,human cytomegalovirus,FALSE,NA
+2023-03-29,1,human parechovirus,FALSE,NA
+2023-03-29,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-29,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-29,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-29,1,enterovirus D68,FALSE,NA
+2023-03-29,1,herpes simplex virus type 1,FALSE,NA
+2023-03-29,1,herpes simplex virus type 2,FALSE,NA
+2023-03-29,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-29,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-29,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-29,1,*Coxiella burnetii*,FALSE,NA
+2023-03-29,1,MERS-CoV,FALSE,NA
+2023-03-29,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-29,1,*Chlamydia pneumoniae*,TRUE,44
+2023-03-29,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-29,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-29,1,human bocavirus,FALSE,NA
+2023-03-29,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-29,2,influenza A virus,FALSE,NA
+2023-03-29,2,influenza B virus,FALSE,NA
+2023-03-29,2,respiratory syncytial virus,FALSE,NA
+2023-03-29,2,*Human metapneumovirus*,FALSE,NA
+2023-03-29,2,human parainfluenza virus 1,FALSE,NA
+2023-03-29,2,human parainfluenza virus 2,FALSE,NA
+2023-03-29,2,human parainfluenza virus 3,FALSE,NA
+2023-03-29,2,human parainfluenza virus 4,FALSE,NA
+2023-03-29,2,human adenovirus,FALSE,NA
+2023-03-29,2,human enterovirus (incl. rhinovirus),TRUE,35.9
+2023-03-29,2,human cytomegalovirus,FALSE,NA
+2023-03-29,2,human parechovirus,FALSE,NA
+2023-03-29,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-29,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-29,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-29,2,enterovirus D68,FALSE,NA
+2023-03-29,2,herpes simplex virus type 1,FALSE,NA
+2023-03-29,2,herpes simplex virus type 2,FALSE,NA
+2023-03-29,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-29,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-29,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-29,2,*Coxiella burnetii*,FALSE,NA
+2023-03-29,2,MERS-CoV,FALSE,NA
+2023-03-29,2,*Pneumocystis jirovecii*,TRUE,35.3
+2023-03-29,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-29,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-29,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-29,2,human bocavirus,FALSE,NA
+2023-03-29,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-29,HVAC,influenza A virus,FALSE,NA
+2023-03-29,HVAC,influenza B virus,FALSE,NA
+2023-03-29,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-29,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-29,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-29,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-29,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-29,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-29,HVAC,human adenovirus,FALSE,NA
+2023-03-29,HVAC,human enterovirus (incl. rhinovirus),TRUE,37.4
+2023-03-29,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-29,HVAC,human parechovirus,FALSE,NA
+2023-03-29,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-29,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-29,HVAC,*Human coronavirus OC43*,TRUE,36.9
+2023-03-29,HVAC,enterovirus D68,FALSE,NA
+2023-03-29,HVAC,herpes simplex virus type 1,TRUE,35.2
+2023-03-29,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-29,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-29,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-29,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-29,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-29,HVAC,MERS-CoV,FALSE,NA
+2023-03-29,HVAC,*Pneumocystis jirovecii*,TRUE,35.2
+2023-03-29,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-29,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-29,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-29,HVAC,human bocavirus,FALSE,NA
+2023-03-29,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-03-29,3,influenza A virus,FALSE,NA
+2023-03-29,3,influenza B virus,FALSE,NA
+2023-03-29,3,respiratory syncytial virus,FALSE,NA
+2023-03-29,3,*Human metapneumovirus*,FALSE,NA
+2023-03-29,3,human parainfluenza virus 1,FALSE,NA
+2023-03-29,3,human parainfluenza virus 2,FALSE,NA
+2023-03-29,3,human parainfluenza virus 3,FALSE,NA
+2023-03-29,3,human parainfluenza virus 4,FALSE,NA
+2023-03-29,3,human adenovirus,FALSE,NA
+2023-03-29,3,human enterovirus (incl. rhinovirus),TRUE,35.4
+2023-03-29,3,human cytomegalovirus,FALSE,NA
+2023-03-29,3,human parechovirus,FALSE,NA
+2023-03-29,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-29,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-29,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-29,3,enterovirus D68,FALSE,NA
+2023-03-29,3,herpes simplex virus type 1,TRUE,36.1
+2023-03-29,3,herpes simplex virus type 2,FALSE,NA
+2023-03-29,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-29,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-29,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-29,3,*Coxiella burnetii*,FALSE,NA
+2023-03-29,3,MERS-CoV,FALSE,NA
+2023-03-29,3,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-29,3,*Chlamydia pneumoniae*,TRUE,37.3
+2023-03-29,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-29,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-29,3,human bocavirus,FALSE,NA
+2023-03-29,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-31,1,influenza A virus,FALSE,NA
+2023-03-31,1,influenza B virus,FALSE,NA
+2023-03-31,1,respiratory syncytial virus,FALSE,NA
+2023-03-31,1,*Human metapneumovirus*,FALSE,NA
+2023-03-31,1,human parainfluenza virus 1,FALSE,NA
+2023-03-31,1,human parainfluenza virus 2,FALSE,NA
+2023-03-31,1,human parainfluenza virus 3,FALSE,NA
+2023-03-31,1,human parainfluenza virus 4,FALSE,NA
+2023-03-31,1,human adenovirus,FALSE,NA
+2023-03-31,1,human enterovirus (incl. rhinovirus),TRUE,37.8
+2023-03-31,1,human cytomegalovirus,FALSE,NA
+2023-03-31,1,human parechovirus,FALSE,NA
+2023-03-31,1,*Human coronavirus NL63*,FALSE,NA
+2023-03-31,1,*Human coronavirus 229E*,FALSE,NA
+2023-03-31,1,*Human coronavirus OC43*,FALSE,NA
+2023-03-31,1,enterovirus D68,FALSE,NA
+2023-03-31,1,herpes simplex virus type 1,TRUE,37.2
+2023-03-31,1,herpes simplex virus type 2,FALSE,NA
+2023-03-31,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-31,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-31,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-31,1,*Coxiella burnetii*,FALSE,NA
+2023-03-31,1,MERS-CoV,FALSE,NA
+2023-03-31,1,*Pneumocystis jirovecii*,TRUE,35.8
+2023-03-31,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-31,1,*Chlamydia psittaci*,FALSE,NA
+2023-03-31,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-31,1,human bocavirus,FALSE,NA
+2023-03-31,1,*Legionalla pneumophila*,FALSE,NA
+2023-03-31,3,influenza A virus,FALSE,NA
+2023-03-31,3,influenza B virus,FALSE,NA
+2023-03-31,3,respiratory syncytial virus,FALSE,NA
+2023-03-31,3,*Human metapneumovirus*,FALSE,NA
+2023-03-31,3,human parainfluenza virus 1,FALSE,NA
+2023-03-31,3,human parainfluenza virus 2,FALSE,NA
+2023-03-31,3,human parainfluenza virus 3,FALSE,NA
+2023-03-31,3,human parainfluenza virus 4,FALSE,NA
+2023-03-31,3,human adenovirus,FALSE,NA
+2023-03-31,3,human enterovirus (incl. rhinovirus),TRUE,35.9
+2023-03-31,3,human cytomegalovirus,FALSE,NA
+2023-03-31,3,human parechovirus,FALSE,NA
+2023-03-31,3,*Human coronavirus NL63*,FALSE,NA
+2023-03-31,3,*Human coronavirus 229E*,FALSE,NA
+2023-03-31,3,*Human coronavirus OC43*,FALSE,NA
+2023-03-31,3,enterovirus D68,FALSE,NA
+2023-03-31,3,herpes simplex virus type 1,FALSE,NA
+2023-03-31,3,herpes simplex virus type 2,FALSE,NA
+2023-03-31,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-31,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-31,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-31,3,*Coxiella burnetii*,FALSE,NA
+2023-03-31,3,MERS-CoV,FALSE,NA
+2023-03-31,3,*Pneumocystis jirovecii*,TRUE,35
+2023-03-31,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-31,3,*Chlamydia psittaci*,FALSE,NA
+2023-03-31,3,*Streptococcus pneumoniae*,TRUE,41.8
+2023-03-31,3,human bocavirus,FALSE,NA
+2023-03-31,3,*Legionalla pneumophila*,FALSE,NA
+2023-03-31,2,influenza A virus,FALSE,NA
+2023-03-31,2,influenza B virus,FALSE,NA
+2023-03-31,2,respiratory syncytial virus,TRUE,38.8
+2023-03-31,2,*Human metapneumovirus*,FALSE,NA
+2023-03-31,2,human parainfluenza virus 1,FALSE,NA
+2023-03-31,2,human parainfluenza virus 2,FALSE,NA
+2023-03-31,2,human parainfluenza virus 3,FALSE,NA
+2023-03-31,2,human parainfluenza virus 4,FALSE,NA
+2023-03-31,2,human adenovirus,FALSE,NA
+2023-03-31,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-03-31,2,human cytomegalovirus,FALSE,NA
+2023-03-31,2,human parechovirus,FALSE,NA
+2023-03-31,2,*Human coronavirus NL63*,FALSE,NA
+2023-03-31,2,*Human coronavirus 229E*,FALSE,NA
+2023-03-31,2,*Human coronavirus OC43*,FALSE,NA
+2023-03-31,2,enterovirus D68,FALSE,NA
+2023-03-31,2,herpes simplex virus type 1,FALSE,NA
+2023-03-31,2,herpes simplex virus type 2,FALSE,NA
+2023-03-31,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-31,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-31,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-31,2,*Coxiella burnetii*,FALSE,NA
+2023-03-31,2,MERS-CoV,FALSE,NA
+2023-03-31,2,*Pneumocystis jirovecii*,TRUE,35.4
+2023-03-31,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-03-31,2,*Chlamydia psittaci*,FALSE,NA
+2023-03-31,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-03-31,2,human bocavirus,FALSE,NA
+2023-03-31,2,*Legionalla pneumophila*,FALSE,NA
+2023-03-31,HVAC,influenza A virus,FALSE,NA
+2023-03-31,HVAC,influenza B virus,FALSE,NA
+2023-03-31,HVAC,respiratory syncytial virus,FALSE,NA
+2023-03-31,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-03-31,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-03-31,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-03-31,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-03-31,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-03-31,HVAC,human adenovirus,FALSE,NA
+2023-03-31,HVAC,human enterovirus (incl. rhinovirus),TRUE,36
+2023-03-31,HVAC,human cytomegalovirus,FALSE,NA
+2023-03-31,HVAC,human parechovirus,FALSE,NA
+2023-03-31,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-03-31,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-03-31,HVAC,*Human coronavirus OC43*,TRUE,36.7
+2023-03-31,HVAC,enterovirus D68,FALSE,NA
+2023-03-31,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-03-31,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-03-31,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-03-31,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-03-31,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-03-31,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-03-31,HVAC,MERS-CoV,FALSE,NA
+2023-03-31,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-03-31,HVAC,*Chlamydia pneumoniae*,TRUE,39.4
+2023-03-31,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-03-31,HVAC,*Streptococcus pneumoniae*,TRUE,35.3
+2023-03-31,HVAC,human bocavirus,FALSE,NA
+2023-03-31,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-04,1,influenza A virus,FALSE,NA
+2023-04-04,1,influenza B virus,FALSE,NA
+2023-04-04,1,respiratory syncytial virus,FALSE,NA
+2023-04-04,1,*Human metapneumovirus*,FALSE,NA
+2023-04-04,1,human parainfluenza virus 1,FALSE,NA
+2023-04-04,1,human parainfluenza virus 2,FALSE,NA
+2023-04-04,1,human parainfluenza virus 3,TRUE,38.1
+2023-04-04,1,human parainfluenza virus 4,FALSE,NA
+2023-04-04,1,human adenovirus,FALSE,NA
+2023-04-04,1,human enterovirus (incl. rhinovirus),TRUE,37.8
+2023-04-04,1,human cytomegalovirus,FALSE,NA
+2023-04-04,1,human parechovirus,FALSE,NA
+2023-04-04,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-04,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-04,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-04,1,enterovirus D68,FALSE,NA
+2023-04-04,1,herpes simplex virus type 1,FALSE,NA
+2023-04-04,1,herpes simplex virus type 2,FALSE,NA
+2023-04-04,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-04,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-04,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-04,1,*Coxiella burnetii*,FALSE,NA
+2023-04-04,1,MERS-CoV,FALSE,NA
+2023-04-04,1,*Pneumocystis jirovecii*,TRUE,35
+2023-04-04,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-04,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-04,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-04,1,human bocavirus,FALSE,NA
+2023-04-04,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-04,3,influenza A virus,FALSE,NA
+2023-04-04,3,influenza B virus,FALSE,NA
+2023-04-04,3,respiratory syncytial virus,FALSE,NA
+2023-04-04,3,*Human metapneumovirus*,FALSE,NA
+2023-04-04,3,human parainfluenza virus 1,FALSE,NA
+2023-04-04,3,human parainfluenza virus 2,FALSE,NA
+2023-04-04,3,human parainfluenza virus 3,FALSE,NA
+2023-04-04,3,human parainfluenza virus 4,FALSE,NA
+2023-04-04,3,human adenovirus,FALSE,NA
+2023-04-04,3,human enterovirus (incl. rhinovirus),TRUE,35.3
+2023-04-04,3,human cytomegalovirus,FALSE,NA
+2023-04-04,3,human parechovirus,FALSE,NA
+2023-04-04,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-04,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-04,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-04,3,enterovirus D68,FALSE,NA
+2023-04-04,3,herpes simplex virus type 1,FALSE,NA
+2023-04-04,3,herpes simplex virus type 2,FALSE,NA
+2023-04-04,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-04,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-04,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-04,3,*Coxiella burnetii*,FALSE,NA
+2023-04-04,3,MERS-CoV,FALSE,NA
+2023-04-04,3,*Pneumocystis jirovecii*,TRUE,34.6
+2023-04-04,3,*Chlamydia pneumoniae*,TRUE,38.5
+2023-04-04,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-04,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-04,3,human bocavirus,FALSE,NA
+2023-04-04,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-04,2,influenza A virus,FALSE,NA
+2023-04-04,2,influenza B virus,FALSE,NA
+2023-04-04,2,respiratory syncytial virus,FALSE,NA
+2023-04-04,2,*Human metapneumovirus*,FALSE,NA
+2023-04-04,2,human parainfluenza virus 1,FALSE,NA
+2023-04-04,2,human parainfluenza virus 2,FALSE,NA
+2023-04-04,2,human parainfluenza virus 3,FALSE,NA
+2023-04-04,2,human parainfluenza virus 4,FALSE,NA
+2023-04-04,2,human adenovirus,FALSE,NA
+2023-04-04,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-04,2,human cytomegalovirus,FALSE,NA
+2023-04-04,2,human parechovirus,FALSE,NA
+2023-04-04,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-04,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-04,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-04,2,enterovirus D68,FALSE,NA
+2023-04-04,2,herpes simplex virus type 1,FALSE,NA
+2023-04-04,2,herpes simplex virus type 2,FALSE,NA
+2023-04-04,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-04,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-04,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-04,2,*Coxiella burnetii*,FALSE,NA
+2023-04-04,2,MERS-CoV,FALSE,NA
+2023-04-04,2,*Pneumocystis jirovecii*,TRUE,35.1
+2023-04-04,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-04,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-04,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-04,2,human bocavirus,FALSE,NA
+2023-04-04,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-04,HVAC,influenza A virus,FALSE,NA
+2023-04-04,HVAC,influenza B virus,FALSE,NA
+2023-04-04,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-04,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-04,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-04,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-04,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-04,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-04,HVAC,human adenovirus,FALSE,NA
+2023-04-04,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-04,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-04,HVAC,human parechovirus,FALSE,NA
+2023-04-04,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-04,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-04,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-04,HVAC,enterovirus D68,FALSE,NA
+2023-04-04,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-04,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-04,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-04,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-04,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-04,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-04,HVAC,MERS-CoV,FALSE,NA
+2023-04-04,HVAC,*Pneumocystis jirovecii*,TRUE,39.1
+2023-04-04,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-04,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-04,HVAC,*Streptococcus pneumoniae*,TRUE,35.4
+2023-04-04,HVAC,human bocavirus,FALSE,NA
+2023-04-04,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-07,1,influenza A virus,FALSE,NA
+2023-04-07,1,influenza B virus,FALSE,NA
+2023-04-07,1,respiratory syncytial virus,FALSE,NA
+2023-04-07,1,*Human metapneumovirus*,FALSE,NA
+2023-04-07,1,human parainfluenza virus 1,FALSE,NA
+2023-04-07,1,human parainfluenza virus 2,FALSE,NA
+2023-04-07,1,human parainfluenza virus 3,FALSE,NA
+2023-04-07,1,human parainfluenza virus 4,FALSE,NA
+2023-04-07,1,human adenovirus,FALSE,NA
+2023-04-07,1,human enterovirus (incl. rhinovirus),TRUE,38.9
+2023-04-07,1,human cytomegalovirus,FALSE,NA
+2023-04-07,1,human parechovirus,FALSE,NA
+2023-04-07,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-07,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-07,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-07,1,enterovirus D68,FALSE,NA
+2023-04-07,1,herpes simplex virus type 1,FALSE,NA
+2023-04-07,1,herpes simplex virus type 2,FALSE,NA
+2023-04-07,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-07,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-07,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-07,1,*Coxiella burnetii*,FALSE,NA
+2023-04-07,1,MERS-CoV,FALSE,NA
+2023-04-07,1,*Pneumocystis jirovecii*,TRUE,35.2
+2023-04-07,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-07,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-07,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-07,1,human bocavirus,FALSE,NA
+2023-04-07,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-07,3,influenza A virus,FALSE,NA
+2023-04-07,3,influenza B virus,FALSE,NA
+2023-04-07,3,respiratory syncytial virus,FALSE,NA
+2023-04-07,3,*Human metapneumovirus*,FALSE,NA
+2023-04-07,3,human parainfluenza virus 1,FALSE,NA
+2023-04-07,3,human parainfluenza virus 2,FALSE,NA
+2023-04-07,3,human parainfluenza virus 3,FALSE,NA
+2023-04-07,3,human parainfluenza virus 4,FALSE,NA
+2023-04-07,3,human adenovirus,FALSE,NA
+2023-04-07,3,human enterovirus (incl. rhinovirus),TRUE,34.1
+2023-04-07,3,human cytomegalovirus,FALSE,NA
+2023-04-07,3,human parechovirus,FALSE,NA
+2023-04-07,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-07,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-07,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-07,3,enterovirus D68,FALSE,NA
+2023-04-07,3,herpes simplex virus type 1,TRUE,36
+2023-04-07,3,herpes simplex virus type 2,FALSE,NA
+2023-04-07,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-07,3,*Human coronavirus HKU-1*,TRUE,37.2
+2023-04-07,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-07,3,*Coxiella burnetii*,FALSE,NA
+2023-04-07,3,MERS-CoV,FALSE,NA
+2023-04-07,3,*Pneumocystis jirovecii*,TRUE,34.6
+2023-04-07,3,*Chlamydia pneumoniae*,TRUE,41.9
+2023-04-07,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-07,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-07,3,human bocavirus,FALSE,NA
+2023-04-07,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-07,2,influenza A virus,FALSE,NA
+2023-04-07,2,influenza B virus,FALSE,NA
+2023-04-07,2,respiratory syncytial virus,FALSE,NA
+2023-04-07,2,*Human metapneumovirus*,FALSE,NA
+2023-04-07,2,human parainfluenza virus 1,FALSE,NA
+2023-04-07,2,human parainfluenza virus 2,FALSE,NA
+2023-04-07,2,human parainfluenza virus 3,FALSE,NA
+2023-04-07,2,human parainfluenza virus 4,FALSE,NA
+2023-04-07,2,human adenovirus,FALSE,NA
+2023-04-07,2,human enterovirus (incl. rhinovirus),TRUE,38.2
+2023-04-07,2,human cytomegalovirus,FALSE,NA
+2023-04-07,2,human parechovirus,FALSE,NA
+2023-04-07,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-07,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-07,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-07,2,enterovirus D68,FALSE,NA
+2023-04-07,2,herpes simplex virus type 1,FALSE,NA
+2023-04-07,2,herpes simplex virus type 2,FALSE,NA
+2023-04-07,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-07,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-07,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-07,2,*Coxiella burnetii*,FALSE,NA
+2023-04-07,2,MERS-CoV,FALSE,NA
+2023-04-07,2,*Pneumocystis jirovecii*,FALSE,NA
+2023-04-07,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-07,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-07,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-07,2,human bocavirus,FALSE,NA
+2023-04-07,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-07,HVAC,influenza A virus,FALSE,NA
+2023-04-07,HVAC,influenza B virus,FALSE,NA
+2023-04-07,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-07,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-07,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-07,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-07,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-07,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-07,HVAC,human adenovirus,FALSE,NA
+2023-04-07,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-07,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-07,HVAC,human parechovirus,FALSE,NA
+2023-04-07,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-07,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-07,HVAC,*Human coronavirus OC43*,TRUE,35.1
+2023-04-07,HVAC,enterovirus D68,FALSE,NA
+2023-04-07,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-07,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-07,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-07,HVAC,*Human coronavirus HKU-1*,TRUE,40.2
+2023-04-07,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-07,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-07,HVAC,MERS-CoV,FALSE,NA
+2023-04-07,HVAC,*Pneumocystis jirovecii*,TRUE,34.5
+2023-04-07,HVAC,*Chlamydia pneumoniae*,TRUE,41.7
+2023-04-07,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-07,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-07,HVAC,human bocavirus,FALSE,NA
+2023-04-07,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-12,1,influenza A virus,FALSE,NA
+2023-04-12,1,influenza B virus,FALSE,NA
+2023-04-12,1,respiratory syncytial virus,FALSE,NA
+2023-04-12,1,*Human metapneumovirus*,FALSE,NA
+2023-04-12,1,human parainfluenza virus 1,FALSE,NA
+2023-04-12,1,human parainfluenza virus 2,FALSE,NA
+2023-04-12,1,human parainfluenza virus 3,FALSE,NA
+2023-04-12,1,human parainfluenza virus 4,FALSE,NA
+2023-04-12,1,human adenovirus,FALSE,NA
+2023-04-12,1,human enterovirus (incl. rhinovirus),TRUE,36.2
+2023-04-12,1,human cytomegalovirus,FALSE,NA
+2023-04-12,1,human parechovirus,FALSE,NA
+2023-04-12,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-12,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-12,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-12,1,enterovirus D68,FALSE,NA
+2023-04-12,1,herpes simplex virus type 1,FALSE,NA
+2023-04-12,1,herpes simplex virus type 2,FALSE,NA
+2023-04-12,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-12,1,*Human coronavirus HKU-1*,TRUE,36.8
+2023-04-12,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-12,1,*Coxiella burnetii*,FALSE,NA
+2023-04-12,1,MERS-CoV,FALSE,NA
+2023-04-12,1,*Pneumocystis jirovecii*,TRUE,34.8
+2023-04-12,1,*Chlamydia pneumoniae*,TRUE,43.9
+2023-04-12,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-12,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-12,1,human bocavirus,FALSE,NA
+2023-04-12,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-12,3,influenza A virus,FALSE,NA
+2023-04-12,3,influenza B virus,FALSE,NA
+2023-04-12,3,respiratory syncytial virus,FALSE,NA
+2023-04-12,3,*Human metapneumovirus*,FALSE,NA
+2023-04-12,3,human parainfluenza virus 1,FALSE,NA
+2023-04-12,3,human parainfluenza virus 2,FALSE,NA
+2023-04-12,3,human parainfluenza virus 3,FALSE,NA
+2023-04-12,3,human parainfluenza virus 4,FALSE,NA
+2023-04-12,3,human adenovirus,FALSE,NA
+2023-04-12,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-12,3,human cytomegalovirus,FALSE,NA
+2023-04-12,3,human parechovirus,FALSE,NA
+2023-04-12,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-12,3,*Human coronavirus 229E*,TRUE,36.7
+2023-04-12,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-12,3,enterovirus D68,FALSE,NA
+2023-04-12,3,herpes simplex virus type 1,TRUE,36
+2023-04-12,3,herpes simplex virus type 2,FALSE,NA
+2023-04-12,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-12,3,*Human coronavirus HKU-1*,TRUE,36.2
+2023-04-12,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-12,3,*Coxiella burnetii*,FALSE,NA
+2023-04-12,3,MERS-CoV,FALSE,NA
+2023-04-12,3,*Pneumocystis jirovecii*,TRUE,36.8
+2023-04-12,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-12,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-12,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-12,3,human bocavirus,FALSE,NA
+2023-04-12,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-12,2,influenza A virus,FALSE,NA
+2023-04-12,2,influenza B virus,FALSE,NA
+2023-04-12,2,respiratory syncytial virus,FALSE,NA
+2023-04-12,2,*Human metapneumovirus*,FALSE,NA
+2023-04-12,2,human parainfluenza virus 1,FALSE,NA
+2023-04-12,2,human parainfluenza virus 2,FALSE,NA
+2023-04-12,2,human parainfluenza virus 3,FALSE,NA
+2023-04-12,2,human parainfluenza virus 4,FALSE,NA
+2023-04-12,2,human adenovirus,FALSE,NA
+2023-04-12,2,human enterovirus (incl. rhinovirus),TRUE,36.9
+2023-04-12,2,human cytomegalovirus,FALSE,NA
+2023-04-12,2,human parechovirus,FALSE,NA
+2023-04-12,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-12,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-12,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-12,2,enterovirus D68,FALSE,NA
+2023-04-12,2,herpes simplex virus type 1,FALSE,NA
+2023-04-12,2,herpes simplex virus type 2,FALSE,NA
+2023-04-12,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-12,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-12,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-12,2,*Coxiella burnetii*,FALSE,NA
+2023-04-12,2,MERS-CoV,FALSE,NA
+2023-04-12,2,*Pneumocystis jirovecii*,FALSE,NA
+2023-04-12,2,*Chlamydia pneumoniae*,TRUE,39.1
+2023-04-12,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-12,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-12,2,human bocavirus,FALSE,NA
+2023-04-12,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-12,HVAC,influenza A virus,FALSE,NA
+2023-04-12,HVAC,influenza B virus,FALSE,NA
+2023-04-12,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-12,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-12,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-12,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-12,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-12,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-12,HVAC,human adenovirus,FALSE,NA
+2023-04-12,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-12,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-12,HVAC,human parechovirus,FALSE,NA
+2023-04-12,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-12,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-12,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-12,HVAC,enterovirus D68,FALSE,NA
+2023-04-12,HVAC,herpes simplex virus type 1,TRUE,37.6
+2023-04-12,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-12,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-12,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-12,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-12,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-12,HVAC,MERS-CoV,FALSE,NA
+2023-04-12,HVAC,*Pneumocystis jirovecii*,TRUE,36.8
+2023-04-12,HVAC,*Chlamydia pneumoniae*,TRUE,38.8
+2023-04-12,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-12,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-12,HVAC,human bocavirus,FALSE,NA
+2023-04-12,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-14,HVAC,influenza A virus,FALSE,NA
+2023-04-14,HVAC,influenza B virus,FALSE,NA
+2023-04-14,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-14,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-14,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-14,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-14,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-14,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-14,HVAC,human adenovirus,FALSE,NA
+2023-04-14,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-14,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-14,HVAC,human parechovirus,FALSE,NA
+2023-04-14,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-14,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-14,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-14,HVAC,enterovirus D68,FALSE,NA
+2023-04-14,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-14,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-14,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-14,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-14,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-14,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-14,HVAC,MERS-CoV,FALSE,NA
+2023-04-14,HVAC,*Pneumocystis jirovecii*,TRUE,39.3
+2023-04-14,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-14,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-14,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-14,HVAC,human bocavirus,FALSE,NA
+2023-04-14,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-14,1,influenza A virus,FALSE,NA
+2023-04-14,1,influenza B virus,FALSE,NA
+2023-04-14,1,respiratory syncytial virus,FALSE,NA
+2023-04-14,1,*Human metapneumovirus*,FALSE,NA
+2023-04-14,1,human parainfluenza virus 1,FALSE,NA
+2023-04-14,1,human parainfluenza virus 2,FALSE,NA
+2023-04-14,1,human parainfluenza virus 3,FALSE,NA
+2023-04-14,1,human parainfluenza virus 4,FALSE,NA
+2023-04-14,1,human adenovirus,FALSE,NA
+2023-04-14,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-14,1,human cytomegalovirus,FALSE,NA
+2023-04-14,1,human parechovirus,FALSE,NA
+2023-04-14,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-14,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-14,1,*Human coronavirus OC43*,TRUE,36.6
+2023-04-14,1,enterovirus D68,FALSE,NA
+2023-04-14,1,herpes simplex virus type 1,FALSE,NA
+2023-04-14,1,herpes simplex virus type 2,FALSE,NA
+2023-04-14,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-14,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-14,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-14,1,*Coxiella burnetii*,FALSE,NA
+2023-04-14,1,MERS-CoV,FALSE,NA
+2023-04-14,1,*Pneumocystis jirovecii*,TRUE,37.3
+2023-04-14,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-14,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-14,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-14,1,human bocavirus,FALSE,NA
+2023-04-14,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-14,3,influenza A virus,FALSE,NA
+2023-04-14,3,influenza B virus,FALSE,NA
+2023-04-14,3,respiratory syncytial virus,FALSE,NA
+2023-04-14,3,*Human metapneumovirus*,FALSE,NA
+2023-04-14,3,human parainfluenza virus 1,FALSE,NA
+2023-04-14,3,human parainfluenza virus 2,FALSE,NA
+2023-04-14,3,human parainfluenza virus 3,FALSE,NA
+2023-04-14,3,human parainfluenza virus 4,FALSE,NA
+2023-04-14,3,human adenovirus,FALSE,NA
+2023-04-14,3,human enterovirus (incl. rhinovirus),TRUE,37.1
+2023-04-14,3,human cytomegalovirus,FALSE,NA
+2023-04-14,3,human parechovirus,FALSE,NA
+2023-04-14,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-14,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-14,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-14,3,enterovirus D68,FALSE,NA
+2023-04-14,3,herpes simplex virus type 1,FALSE,NA
+2023-04-14,3,herpes simplex virus type 2,FALSE,NA
+2023-04-14,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-14,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-14,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-14,3,*Coxiella burnetii*,FALSE,NA
+2023-04-14,3,MERS-CoV,FALSE,NA
+2023-04-14,3,*Pneumocystis jirovecii*,TRUE,33.5
+2023-04-14,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-14,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-14,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-14,3,human bocavirus,FALSE,NA
+2023-04-14,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-14,2,influenza A virus,FALSE,NA
+2023-04-14,2,influenza B virus,FALSE,NA
+2023-04-14,2,respiratory syncytial virus,FALSE,NA
+2023-04-14,2,*Human metapneumovirus*,FALSE,NA
+2023-04-14,2,human parainfluenza virus 1,FALSE,NA
+2023-04-14,2,human parainfluenza virus 2,FALSE,NA
+2023-04-14,2,human parainfluenza virus 3,FALSE,NA
+2023-04-14,2,human parainfluenza virus 4,FALSE,NA
+2023-04-14,2,human adenovirus,FALSE,NA
+2023-04-14,2,human enterovirus (incl. rhinovirus),TRUE,37.8
+2023-04-14,2,human cytomegalovirus,FALSE,NA
+2023-04-14,2,human parechovirus,FALSE,NA
+2023-04-14,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-14,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-14,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-14,2,enterovirus D68,FALSE,NA
+2023-04-14,2,herpes simplex virus type 1,FALSE,NA
+2023-04-14,2,herpes simplex virus type 2,FALSE,NA
+2023-04-14,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-14,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-14,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-14,2,*Coxiella burnetii*,FALSE,NA
+2023-04-14,2,MERS-CoV,FALSE,NA
+2023-04-14,2,*Pneumocystis jirovecii*,TRUE,34.9
+2023-04-14,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-14,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-14,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-14,2,human bocavirus,FALSE,NA
+2023-04-14,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-19,3,influenza A virus,FALSE,NA
+2023-04-19,3,influenza B virus,FALSE,NA
+2023-04-19,3,respiratory syncytial virus,FALSE,NA
+2023-04-19,3,*Human metapneumovirus*,FALSE,NA
+2023-04-19,3,human parainfluenza virus 1,FALSE,NA
+2023-04-19,3,human parainfluenza virus 2,FALSE,NA
+2023-04-19,3,human parainfluenza virus 3,FALSE,NA
+2023-04-19,3,human parainfluenza virus 4,FALSE,NA
+2023-04-19,3,human adenovirus,FALSE,NA
+2023-04-19,3,human enterovirus (incl. rhinovirus),TRUE,39.1
+2023-04-19,3,human cytomegalovirus,FALSE,NA
+2023-04-19,3,human parechovirus,FALSE,NA
+2023-04-19,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-19,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-19,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-19,3,enterovirus D68,FALSE,NA
+2023-04-19,3,herpes simplex virus type 1,TRUE,40.1
+2023-04-19,3,herpes simplex virus type 2,FALSE,NA
+2023-04-19,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-19,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-19,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-19,3,*Coxiella burnetii*,FALSE,NA
+2023-04-19,3,MERS-CoV,FALSE,NA
+2023-04-19,3,*Pneumocystis jirovecii*,TRUE,33
+2023-04-19,3,*Chlamydia pneumoniae*,TRUE,38.4
+2023-04-19,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-19,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-19,3,human bocavirus,FALSE,NA
+2023-04-19,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-19,2,influenza A virus,FALSE,NA
+2023-04-19,2,influenza B virus,FALSE,NA
+2023-04-19,2,respiratory syncytial virus,FALSE,NA
+2023-04-19,2,*Human metapneumovirus*,FALSE,NA
+2023-04-19,2,human parainfluenza virus 1,FALSE,NA
+2023-04-19,2,human parainfluenza virus 2,FALSE,NA
+2023-04-19,2,human parainfluenza virus 3,FALSE,NA
+2023-04-19,2,human parainfluenza virus 4,FALSE,NA
+2023-04-19,2,human adenovirus,FALSE,NA
+2023-04-19,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-19,2,human cytomegalovirus,FALSE,NA
+2023-04-19,2,human parechovirus,FALSE,NA
+2023-04-19,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-19,2,*Human coronavirus 229E*,TRUE,37
+2023-04-19,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-19,2,enterovirus D68,FALSE,NA
+2023-04-19,2,herpes simplex virus type 1,FALSE,NA
+2023-04-19,2,herpes simplex virus type 2,FALSE,NA
+2023-04-19,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-19,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-19,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-19,2,*Coxiella burnetii*,FALSE,NA
+2023-04-19,2,MERS-CoV,FALSE,NA
+2023-04-19,2,*Pneumocystis jirovecii*,TRUE,34.3
+2023-04-19,2,*Chlamydia pneumoniae*,TRUE,39.2
+2023-04-19,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-19,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-19,2,human bocavirus,FALSE,NA
+2023-04-19,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-19,1,influenza A virus,FALSE,NA
+2023-04-19,1,influenza B virus,FALSE,NA
+2023-04-19,1,respiratory syncytial virus,FALSE,NA
+2023-04-19,1,*Human metapneumovirus*,FALSE,NA
+2023-04-19,1,human parainfluenza virus 1,FALSE,NA
+2023-04-19,1,human parainfluenza virus 2,FALSE,NA
+2023-04-19,1,human parainfluenza virus 3,FALSE,NA
+2023-04-19,1,human parainfluenza virus 4,FALSE,NA
+2023-04-19,1,human adenovirus,FALSE,NA
+2023-04-19,1,human enterovirus (incl. rhinovirus),TRUE,37.6
+2023-04-19,1,human cytomegalovirus,TRUE,36.1
+2023-04-19,1,human parechovirus,FALSE,NA
+2023-04-19,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-19,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-19,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-19,1,enterovirus D68,FALSE,NA
+2023-04-19,1,herpes simplex virus type 1,FALSE,NA
+2023-04-19,1,herpes simplex virus type 2,FALSE,NA
+2023-04-19,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-19,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-19,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-19,1,*Coxiella burnetii*,FALSE,NA
+2023-04-19,1,MERS-CoV,FALSE,NA
+2023-04-19,1,*Pneumocystis jirovecii*,TRUE,34.2
+2023-04-19,1,*Chlamydia pneumoniae*,TRUE,44.4
+2023-04-19,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-19,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-19,1,human bocavirus,FALSE,NA
+2023-04-19,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-19,HVAC,influenza A virus,FALSE,NA
+2023-04-19,HVAC,influenza B virus,FALSE,NA
+2023-04-19,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-19,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-19,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-19,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-19,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-19,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-19,HVAC,human adenovirus,FALSE,NA
+2023-04-19,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-19,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-19,HVAC,human parechovirus,FALSE,NA
+2023-04-19,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-19,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-19,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-19,HVAC,enterovirus D68,FALSE,NA
+2023-04-19,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-19,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-19,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-19,HVAC,*Human coronavirus HKU-1*,TRUE,37.8
+2023-04-19,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-19,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-19,HVAC,MERS-CoV,FALSE,NA
+2023-04-19,HVAC,*Pneumocystis jirovecii*,TRUE,36
+2023-04-19,HVAC,*Chlamydia pneumoniae*,TRUE,42.9
+2023-04-19,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-19,HVAC,*Streptococcus pneumoniae*,TRUE,35.3
+2023-04-19,HVAC,human bocavirus,FALSE,NA
+2023-04-19,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-25,1,influenza A virus,FALSE,NA
+2023-04-25,1,influenza B virus,FALSE,NA
+2023-04-25,1,respiratory syncytial virus,FALSE,NA
+2023-04-25,1,*Human metapneumovirus*,FALSE,NA
+2023-04-25,1,human parainfluenza virus 1,FALSE,NA
+2023-04-25,1,human parainfluenza virus 2,FALSE,NA
+2023-04-25,1,human parainfluenza virus 3,TRUE,32.8
+2023-04-25,1,human parainfluenza virus 4,TRUE,35.8
+2023-04-25,1,human adenovirus,FALSE,NA
+2023-04-25,1,human enterovirus (incl. rhinovirus),TRUE,36.5
+2023-04-25,1,human cytomegalovirus,FALSE,NA
+2023-04-25,1,human parechovirus,FALSE,NA
+2023-04-25,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-25,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-25,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-25,1,enterovirus D68,FALSE,NA
+2023-04-25,1,herpes simplex virus type 1,FALSE,NA
+2023-04-25,1,herpes simplex virus type 2,FALSE,NA
+2023-04-25,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-25,1,*Human coronavirus HKU-1*,TRUE,33.4
+2023-04-25,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-25,1,*Coxiella burnetii*,FALSE,NA
+2023-04-25,1,MERS-CoV,FALSE,NA
+2023-04-25,1,*Pneumocystis jirovecii*,TRUE,33.8
+2023-04-25,1,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-25,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-25,1,*Streptococcus pneumoniae*,TRUE,35.1
+2023-04-25,1,human bocavirus,FALSE,NA
+2023-04-25,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-25,3,influenza A virus,FALSE,NA
+2023-04-25,3,influenza B virus,FALSE,NA
+2023-04-25,3,respiratory syncytial virus,FALSE,NA
+2023-04-25,3,*Human metapneumovirus*,FALSE,NA
+2023-04-25,3,human parainfluenza virus 1,FALSE,NA
+2023-04-25,3,human parainfluenza virus 2,FALSE,NA
+2023-04-25,3,human parainfluenza virus 3,TRUE,34.9
+2023-04-25,3,human parainfluenza virus 4,TRUE,39.3
+2023-04-25,3,human adenovirus,FALSE,NA
+2023-04-25,3,human enterovirus (incl. rhinovirus),TRUE,36.2
+2023-04-25,3,human cytomegalovirus,FALSE,NA
+2023-04-25,3,human parechovirus,FALSE,NA
+2023-04-25,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-25,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-25,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-25,3,enterovirus D68,FALSE,NA
+2023-04-25,3,herpes simplex virus type 1,TRUE,34.8
+2023-04-25,3,herpes simplex virus type 2,FALSE,NA
+2023-04-25,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-25,3,*Human coronavirus HKU-1*,TRUE,36.2
+2023-04-25,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-25,3,*Coxiella burnetii*,FALSE,NA
+2023-04-25,3,MERS-CoV,FALSE,NA
+2023-04-25,3,*Pneumocystis jirovecii*,TRUE,32.8
+2023-04-25,3,*Chlamydia pneumoniae*,TRUE,38.2
+2023-04-25,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-25,3,*Streptococcus pneumoniae*,TRUE,34.8
+2023-04-25,3,human bocavirus,FALSE,NA
+2023-04-25,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-25,2,influenza A virus,FALSE,NA
+2023-04-25,2,influenza B virus,FALSE,NA
+2023-04-25,2,respiratory syncytial virus,FALSE,NA
+2023-04-25,2,*Human metapneumovirus*,FALSE,NA
+2023-04-25,2,human parainfluenza virus 1,FALSE,NA
+2023-04-25,2,human parainfluenza virus 2,FALSE,NA
+2023-04-25,2,human parainfluenza virus 3,FALSE,NA
+2023-04-25,2,human parainfluenza virus 4,FALSE,NA
+2023-04-25,2,human adenovirus,FALSE,NA
+2023-04-25,2,human enterovirus (incl. rhinovirus),TRUE,35.6
+2023-04-25,2,human cytomegalovirus,FALSE,NA
+2023-04-25,2,human parechovirus,FALSE,NA
+2023-04-25,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-25,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-25,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-25,2,enterovirus D68,FALSE,NA
+2023-04-25,2,herpes simplex virus type 1,FALSE,NA
+2023-04-25,2,herpes simplex virus type 2,FALSE,NA
+2023-04-25,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-25,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-25,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-25,2,*Coxiella burnetii*,FALSE,NA
+2023-04-25,2,MERS-CoV,FALSE,NA
+2023-04-25,2,*Pneumocystis jirovecii*,TRUE,33.1
+2023-04-25,2,*Chlamydia pneumoniae*,TRUE,42.6
+2023-04-25,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-25,2,*Streptococcus pneumoniae*,TRUE,35
+2023-04-25,2,human bocavirus,FALSE,NA
+2023-04-25,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-25,HVAC,influenza A virus,FALSE,NA
+2023-04-25,HVAC,influenza B virus,FALSE,NA
+2023-04-25,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-25,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-25,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-25,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-25,HVAC,human parainfluenza virus 3,TRUE,38
+2023-04-25,HVAC,human parainfluenza virus 4,TRUE,35.1
+2023-04-25,HVAC,human adenovirus,TRUE,37.2
+2023-04-25,HVAC,human enterovirus (incl. rhinovirus),TRUE,37.8
+2023-04-25,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-25,HVAC,human parechovirus,FALSE,NA
+2023-04-25,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-25,HVAC,*Human coronavirus 229E*,TRUE,33.2
+2023-04-25,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-25,HVAC,enterovirus D68,FALSE,NA
+2023-04-25,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-25,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-25,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-25,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-25,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-25,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-25,HVAC,MERS-CoV,FALSE,NA
+2023-04-25,HVAC,*Pneumocystis jirovecii*,TRUE,34.1
+2023-04-25,HVAC,*Chlamydia pneumoniae*,TRUE,40
+2023-04-25,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-25,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-25,HVAC,human bocavirus,FALSE,NA
+2023-04-25,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-20,HVAC,influenza A virus,FALSE,NA
+2023-04-20,HVAC,influenza B virus,FALSE,NA
+2023-04-20,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-20,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-20,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-20,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-20,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-20,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-20,HVAC,human adenovirus,FALSE,NA
+2023-04-20,HVAC,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-20,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-20,HVAC,human parechovirus,FALSE,NA
+2023-04-20,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-20,HVAC,*Human coronavirus 229E*,TRUE,35.9
+2023-04-20,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-20,HVAC,enterovirus D68,FALSE,NA
+2023-04-20,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-20,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-20,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-20,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-20,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-20,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-20,HVAC,MERS-CoV,FALSE,NA
+2023-04-20,HVAC,*Pneumocystis jirovecii*,TRUE,33.6
+2023-04-20,HVAC,*Chlamydia pneumoniae*,TRUE,42.1
+2023-04-20,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-20,HVAC,*Streptococcus pneumoniae*,TRUE,34.1
+2023-04-20,HVAC,human bocavirus,FALSE,NA
+2023-04-20,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-20,1,influenza A virus,FALSE,NA
+2023-04-20,1,influenza B virus,FALSE,NA
+2023-04-20,1,respiratory syncytial virus,FALSE,NA
+2023-04-20,1,*Human metapneumovirus*,FALSE,NA
+2023-04-20,1,human parainfluenza virus 1,FALSE,NA
+2023-04-20,1,human parainfluenza virus 2,FALSE,NA
+2023-04-20,1,human parainfluenza virus 3,FALSE,NA
+2023-04-20,1,human parainfluenza virus 4,FALSE,NA
+2023-04-20,1,human adenovirus,FALSE,NA
+2023-04-20,1,human enterovirus (incl. rhinovirus),TRUE,37.3
+2023-04-20,1,human cytomegalovirus,FALSE,NA
+2023-04-20,1,human parechovirus,FALSE,NA
+2023-04-20,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-20,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-20,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-20,1,enterovirus D68,FALSE,NA
+2023-04-20,1,herpes simplex virus type 1,FALSE,NA
+2023-04-20,1,herpes simplex virus type 2,FALSE,NA
+2023-04-20,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-20,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-20,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-20,1,*Coxiella burnetii*,FALSE,NA
+2023-04-20,1,MERS-CoV,FALSE,NA
+2023-04-20,1,*Pneumocystis jirovecii*,TRUE,35
+2023-04-20,1,*Chlamydia pneumoniae*,TRUE,37.9
+2023-04-20,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-20,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-20,1,human bocavirus,FALSE,NA
+2023-04-20,1,*Legionalla pneumophila*,FALSE,NA
+2023-04-20,3,influenza A virus,FALSE,NA
+2023-04-20,3,influenza B virus,FALSE,NA
+2023-04-20,3,respiratory syncytial virus,FALSE,NA
+2023-04-20,3,*Human metapneumovirus*,FALSE,NA
+2023-04-20,3,human parainfluenza virus 1,FALSE,NA
+2023-04-20,3,human parainfluenza virus 2,FALSE,NA
+2023-04-20,3,human parainfluenza virus 3,FALSE,NA
+2023-04-20,3,human parainfluenza virus 4,FALSE,NA
+2023-04-20,3,human adenovirus,FALSE,NA
+2023-04-20,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-20,3,human cytomegalovirus,FALSE,NA
+2023-04-20,3,human parechovirus,FALSE,NA
+2023-04-20,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-20,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-20,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-20,3,enterovirus D68,FALSE,NA
+2023-04-20,3,herpes simplex virus type 1,FALSE,NA
+2023-04-20,3,herpes simplex virus type 2,FALSE,NA
+2023-04-20,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-20,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-20,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-20,3,*Coxiella burnetii*,FALSE,NA
+2023-04-20,3,MERS-CoV,FALSE,NA
+2023-04-20,3,*Pneumocystis jirovecii*,TRUE,34.6
+2023-04-20,3,*Chlamydia pneumoniae*,TRUE,36.4
+2023-04-20,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-20,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-20,3,human bocavirus,FALSE,NA
+2023-04-20,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-20,2,influenza A virus,FALSE,NA
+2023-04-20,2,influenza B virus,FALSE,NA
+2023-04-20,2,respiratory syncytial virus,FALSE,NA
+2023-04-20,2,*Human metapneumovirus*,FALSE,NA
+2023-04-20,2,human parainfluenza virus 1,FALSE,NA
+2023-04-20,2,human parainfluenza virus 2,FALSE,NA
+2023-04-20,2,human parainfluenza virus 3,FALSE,NA
+2023-04-20,2,human parainfluenza virus 4,FALSE,NA
+2023-04-20,2,human adenovirus,FALSE,NA
+2023-04-20,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-20,2,human cytomegalovirus,TRUE,35.9
+2023-04-20,2,human parechovirus,FALSE,NA
+2023-04-20,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-20,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-20,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-20,2,enterovirus D68,FALSE,NA
+2023-04-20,2,herpes simplex virus type 1,TRUE,35.8
+2023-04-20,2,herpes simplex virus type 2,FALSE,NA
+2023-04-20,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-20,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-20,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-20,2,*Coxiella burnetii*,FALSE,NA
+2023-04-20,2,MERS-CoV,FALSE,NA
+2023-04-20,2,*Pneumocystis jirovecii*,TRUE,35.6
+2023-04-20,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-04-20,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-20,2,*Streptococcus pneumoniae*,TRUE,35.2
+2023-04-20,2,human bocavirus,FALSE,NA
+2023-04-20,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-28,HVAC,influenza A virus,FALSE,NA
+2023-04-28,HVAC,influenza B virus,FALSE,NA
+2023-04-28,HVAC,respiratory syncytial virus,FALSE,NA
+2023-04-28,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-04-28,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-04-28,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-04-28,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-04-28,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-04-28,HVAC,human adenovirus,FALSE,NA
+2023-04-28,HVAC,human enterovirus (incl. rhinovirus),TRUE,36.6
+2023-04-28,HVAC,human cytomegalovirus,FALSE,NA
+2023-04-28,HVAC,human parechovirus,FALSE,NA
+2023-04-28,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-04-28,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-04-28,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-04-28,HVAC,enterovirus D68,FALSE,NA
+2023-04-28,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-04-28,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-04-28,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-28,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-28,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-28,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-04-28,HVAC,MERS-CoV,FALSE,NA
+2023-04-28,HVAC,*Pneumocystis jirovecii*,TRUE,34.9
+2023-04-28,HVAC,*Chlamydia pneumoniae*,TRUE,39
+2023-04-28,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-04-28,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-28,HVAC,human bocavirus,FALSE,NA
+2023-04-28,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-04-28,2,influenza A virus,FALSE,NA
+2023-04-28,2,influenza B virus,FALSE,NA
+2023-04-28,2,respiratory syncytial virus,FALSE,NA
+2023-04-28,2,*Human metapneumovirus*,FALSE,NA
+2023-04-28,2,human parainfluenza virus 1,FALSE,NA
+2023-04-28,2,human parainfluenza virus 2,FALSE,NA
+2023-04-28,2,human parainfluenza virus 3,FALSE,NA
+2023-04-28,2,human parainfluenza virus 4,FALSE,NA
+2023-04-28,2,human adenovirus,FALSE,NA
+2023-04-28,2,human enterovirus (incl. rhinovirus),TRUE,37.1
+2023-04-28,2,human cytomegalovirus,FALSE,NA
+2023-04-28,2,human parechovirus,FALSE,NA
+2023-04-28,2,*Human coronavirus NL63*,FALSE,NA
+2023-04-28,2,*Human coronavirus 229E*,FALSE,NA
+2023-04-28,2,*Human coronavirus OC43*,FALSE,NA
+2023-04-28,2,enterovirus D68,FALSE,NA
+2023-04-28,2,herpes simplex virus type 1,FALSE,NA
+2023-04-28,2,herpes simplex virus type 2,FALSE,NA
+2023-04-28,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-28,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-28,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-28,2,*Coxiella burnetii*,FALSE,NA
+2023-04-28,2,MERS-CoV,FALSE,NA
+2023-04-28,2,*Pneumocystis jirovecii*,TRUE,36.2
+2023-04-28,2,*Chlamydia pneumoniae*,TRUE,42.4
+2023-04-28,2,*Chlamydia psittaci*,FALSE,NA
+2023-04-28,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-28,2,human bocavirus,FALSE,NA
+2023-04-28,2,*Legionalla pneumophila*,FALSE,NA
+2023-04-28,3,influenza A virus,FALSE,NA
+2023-04-28,3,influenza B virus,FALSE,NA
+2023-04-28,3,respiratory syncytial virus,FALSE,NA
+2023-04-28,3,*Human metapneumovirus*,FALSE,NA
+2023-04-28,3,human parainfluenza virus 1,FALSE,NA
+2023-04-28,3,human parainfluenza virus 2,FALSE,NA
+2023-04-28,3,human parainfluenza virus 3,FALSE,NA
+2023-04-28,3,human parainfluenza virus 4,FALSE,NA
+2023-04-28,3,human adenovirus,FALSE,NA
+2023-04-28,3,human enterovirus (incl. rhinovirus),TRUE,35.1
+2023-04-28,3,human cytomegalovirus,FALSE,NA
+2023-04-28,3,human parechovirus,FALSE,NA
+2023-04-28,3,*Human coronavirus NL63*,FALSE,NA
+2023-04-28,3,*Human coronavirus 229E*,FALSE,NA
+2023-04-28,3,*Human coronavirus OC43*,FALSE,NA
+2023-04-28,3,enterovirus D68,FALSE,NA
+2023-04-28,3,herpes simplex virus type 1,FALSE,NA
+2023-04-28,3,herpes simplex virus type 2,FALSE,NA
+2023-04-28,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-28,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-28,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-28,3,*Coxiella burnetii*,FALSE,NA
+2023-04-28,3,MERS-CoV,FALSE,NA
+2023-04-28,3,*Pneumocystis jirovecii*,TRUE,34.7
+2023-04-28,3,*Chlamydia pneumoniae*,TRUE,40
+2023-04-28,3,*Chlamydia psittaci*,FALSE,NA
+2023-04-28,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-28,3,human bocavirus,FALSE,NA
+2023-04-28,3,*Legionalla pneumophila*,FALSE,NA
+2023-04-28,1,influenza A virus,FALSE,NA
+2023-04-28,1,influenza B virus,FALSE,NA
+2023-04-28,1,respiratory syncytial virus,FALSE,NA
+2023-04-28,1,*Human metapneumovirus*,FALSE,NA
+2023-04-28,1,human parainfluenza virus 1,FALSE,NA
+2023-04-28,1,human parainfluenza virus 2,FALSE,NA
+2023-04-28,1,human parainfluenza virus 3,FALSE,NA
+2023-04-28,1,human parainfluenza virus 4,FALSE,NA
+2023-04-28,1,human adenovirus,FALSE,NA
+2023-04-28,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-04-28,1,human cytomegalovirus,FALSE,NA
+2023-04-28,1,human parechovirus,FALSE,NA
+2023-04-28,1,*Human coronavirus NL63*,FALSE,NA
+2023-04-28,1,*Human coronavirus 229E*,FALSE,NA
+2023-04-28,1,*Human coronavirus OC43*,FALSE,NA
+2023-04-28,1,enterovirus D68,FALSE,NA
+2023-04-28,1,herpes simplex virus type 1,FALSE,NA
+2023-04-28,1,herpes simplex virus type 2,FALSE,NA
+2023-04-28,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-04-28,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-04-28,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-04-28,1,*Coxiella burnetii*,FALSE,NA
+2023-04-28,1,MERS-CoV,FALSE,NA
+2023-04-28,1,*Pneumocystis jirovecii*,TRUE,35.5
+2023-04-28,1,*Chlamydia pneumoniae*,TRUE,38.7
+2023-04-28,1,*Chlamydia psittaci*,FALSE,NA
+2023-04-28,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-04-28,1,human bocavirus,FALSE,NA
+2023-04-28,1,*Legionalla pneumophila*,FALSE,NA
+2023-05-05,1,influenza A virus,FALSE,NA
+2023-05-05,1,influenza B virus,FALSE,NA
+2023-05-05,1,respiratory syncytial virus,FALSE,NA
+2023-05-05,1,*Human metapneumovirus*,FALSE,NA
+2023-05-05,1,human parainfluenza virus 1,FALSE,NA
+2023-05-05,1,human parainfluenza virus 2,FALSE,NA
+2023-05-05,1,human parainfluenza virus 3,FALSE,NA
+2023-05-05,1,human parainfluenza virus 4,FALSE,NA
+2023-05-05,1,human adenovirus,FALSE,NA
+2023-05-05,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-05,1,human cytomegalovirus,FALSE,NA
+2023-05-05,1,human parechovirus,FALSE,NA
+2023-05-05,1,*Human coronavirus NL63*,FALSE,NA
+2023-05-05,1,*Human coronavirus 229E*,FALSE,NA
+2023-05-05,1,*Human coronavirus OC43*,FALSE,NA
+2023-05-05,1,enterovirus D68,FALSE,NA
+2023-05-05,1,herpes simplex virus type 1,TRUE,35.6
+2023-05-05,1,herpes simplex virus type 2,FALSE,NA
+2023-05-05,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-05,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-05,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-05,1,*Coxiella burnetii*,FALSE,NA
+2023-05-05,1,MERS-CoV,FALSE,NA
+2023-05-05,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-05,1,*Chlamydia pneumoniae*,TRUE,41
+2023-05-05,1,*Chlamydia psittaci*,FALSE,NA
+2023-05-05,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-05,1,human bocavirus,FALSE,NA
+2023-05-05,1,*Legionalla pneumophila*,FALSE,NA
+2023-05-05,3,influenza A virus,FALSE,NA
+2023-05-05,3,influenza B virus,FALSE,NA
+2023-05-05,3,respiratory syncytial virus,FALSE,NA
+2023-05-05,3,*Human metapneumovirus*,FALSE,NA
+2023-05-05,3,human parainfluenza virus 1,FALSE,NA
+2023-05-05,3,human parainfluenza virus 2,FALSE,NA
+2023-05-05,3,human parainfluenza virus 3,FALSE,NA
+2023-05-05,3,human parainfluenza virus 4,FALSE,NA
+2023-05-05,3,human adenovirus,FALSE,NA
+2023-05-05,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-05,3,human cytomegalovirus,FALSE,NA
+2023-05-05,3,human parechovirus,FALSE,NA
+2023-05-05,3,*Human coronavirus NL63*,FALSE,NA
+2023-05-05,3,*Human coronavirus 229E*,FALSE,NA
+2023-05-05,3,*Human coronavirus OC43*,FALSE,NA
+2023-05-05,3,enterovirus D68,FALSE,NA
+2023-05-05,3,herpes simplex virus type 1,FALSE,NA
+2023-05-05,3,herpes simplex virus type 2,FALSE,NA
+2023-05-05,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-05,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-05,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-05,3,*Coxiella burnetii*,FALSE,NA
+2023-05-05,3,MERS-CoV,FALSE,NA
+2023-05-05,3,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-05,3,*Chlamydia pneumoniae*,TRUE,42.8
+2023-05-05,3,*Chlamydia psittaci*,FALSE,NA
+2023-05-05,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-05,3,human bocavirus,FALSE,NA
+2023-05-05,3,*Legionalla pneumophila*,FALSE,NA
+2023-05-05,2,influenza A virus,FALSE,NA
+2023-05-05,2,influenza B virus,FALSE,NA
+2023-05-05,2,respiratory syncytial virus,FALSE,NA
+2023-05-05,2,*Human metapneumovirus*,FALSE,NA
+2023-05-05,2,human parainfluenza virus 1,FALSE,NA
+2023-05-05,2,human parainfluenza virus 2,FALSE,NA
+2023-05-05,2,human parainfluenza virus 3,FALSE,NA
+2023-05-05,2,human parainfluenza virus 4,FALSE,NA
+2023-05-05,2,human adenovirus,FALSE,NA
+2023-05-05,2,human enterovirus (incl. rhinovirus),TRUE,37.7
+2023-05-05,2,human cytomegalovirus,FALSE,NA
+2023-05-05,2,human parechovirus,FALSE,NA
+2023-05-05,2,*Human coronavirus NL63*,FALSE,NA
+2023-05-05,2,*Human coronavirus 229E*,FALSE,NA
+2023-05-05,2,*Human coronavirus OC43*,FALSE,NA
+2023-05-05,2,enterovirus D68,FALSE,NA
+2023-05-05,2,herpes simplex virus type 1,TRUE,35.9
+2023-05-05,2,herpes simplex virus type 2,FALSE,NA
+2023-05-05,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-05,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-05,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-05,2,*Coxiella burnetii*,FALSE,NA
+2023-05-05,2,MERS-CoV,FALSE,NA
+2023-05-05,2,*Pneumocystis jirovecii*,TRUE,34.6
+2023-05-05,2,*Chlamydia pneumoniae*,TRUE,40.2
+2023-05-05,2,*Chlamydia psittaci*,FALSE,NA
+2023-05-05,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-05,2,human bocavirus,FALSE,NA
+2023-05-05,2,*Legionalla pneumophila*,FALSE,NA
+2023-05-05,HVAC,influenza A virus,FALSE,NA
+2023-05-05,HVAC,influenza B virus,FALSE,NA
+2023-05-05,HVAC,respiratory syncytial virus,FALSE,NA
+2023-05-05,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-05-05,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-05-05,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-05-05,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-05-05,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-05-05,HVAC,human adenovirus,FALSE,NA
+2023-05-05,HVAC,human enterovirus (incl. rhinovirus),TRUE,35.6
+2023-05-05,HVAC,human cytomegalovirus,FALSE,NA
+2023-05-05,HVAC,human parechovirus,FALSE,NA
+2023-05-05,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-05-05,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-05-05,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-05-05,HVAC,enterovirus D68,FALSE,NA
+2023-05-05,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-05-05,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-05-05,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-05,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-05,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-05,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-05-05,HVAC,MERS-CoV,FALSE,NA
+2023-05-05,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-05,HVAC,*Chlamydia pneumoniae*,TRUE,43.2
+2023-05-05,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-05-05,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-05,HVAC,human bocavirus,FALSE,NA
+2023-05-05,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-05-04,1,influenza A virus,FALSE,NA
+2023-05-04,1,influenza B virus,FALSE,NA
+2023-05-04,1,respiratory syncytial virus,FALSE,NA
+2023-05-04,1,*Human metapneumovirus*,FALSE,NA
+2023-05-04,1,human parainfluenza virus 1,FALSE,NA
+2023-05-04,1,human parainfluenza virus 2,FALSE,NA
+2023-05-04,1,human parainfluenza virus 3,FALSE,NA
+2023-05-04,1,human parainfluenza virus 4,FALSE,NA
+2023-05-04,1,human adenovirus,FALSE,NA
+2023-05-04,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-04,1,human cytomegalovirus,FALSE,NA
+2023-05-04,1,human parechovirus,FALSE,NA
+2023-05-04,1,*Human coronavirus NL63*,FALSE,NA
+2023-05-04,1,*Human coronavirus 229E*,FALSE,NA
+2023-05-04,1,*Human coronavirus OC43*,FALSE,NA
+2023-05-04,1,enterovirus D68,FALSE,NA
+2023-05-04,1,herpes simplex virus type 1,FALSE,NA
+2023-05-04,1,herpes simplex virus type 2,FALSE,NA
+2023-05-04,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-04,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-04,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-04,1,*Coxiella burnetii*,FALSE,NA
+2023-05-04,1,MERS-CoV,FALSE,NA
+2023-05-04,1,*Pneumocystis jirovecii*,TRUE,34.8
+2023-05-04,1,*Chlamydia pneumoniae*,TRUE,43.7
+2023-05-04,1,*Chlamydia psittaci*,FALSE,NA
+2023-05-04,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-04,1,human bocavirus,FALSE,NA
+2023-05-04,1,*Legionalla pneumophila*,FALSE,NA
+2023-05-04,3,influenza A virus,FALSE,NA
+2023-05-04,3,influenza B virus,FALSE,NA
+2023-05-04,3,respiratory syncytial virus,FALSE,NA
+2023-05-04,3,*Human metapneumovirus*,FALSE,NA
+2023-05-04,3,human parainfluenza virus 1,FALSE,NA
+2023-05-04,3,human parainfluenza virus 2,FALSE,NA
+2023-05-04,3,human parainfluenza virus 3,TRUE,38.3
+2023-05-04,3,human parainfluenza virus 4,FALSE,NA
+2023-05-04,3,human adenovirus,FALSE,NA
+2023-05-04,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-04,3,human cytomegalovirus,FALSE,NA
+2023-05-04,3,human parechovirus,FALSE,NA
+2023-05-04,3,*Human coronavirus NL63*,FALSE,NA
+2023-05-04,3,*Human coronavirus 229E*,FALSE,NA
+2023-05-04,3,*Human coronavirus OC43*,FALSE,NA
+2023-05-04,3,enterovirus D68,FALSE,NA
+2023-05-04,3,herpes simplex virus type 1,FALSE,NA
+2023-05-04,3,herpes simplex virus type 2,FALSE,NA
+2023-05-04,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-04,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-04,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-04,3,*Coxiella burnetii*,FALSE,NA
+2023-05-04,3,MERS-CoV,FALSE,NA
+2023-05-04,3,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-04,3,*Chlamydia pneumoniae*,TRUE,38.6
+2023-05-04,3,*Chlamydia psittaci*,FALSE,NA
+2023-05-04,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-04,3,human bocavirus,TRUE,34.8
+2023-05-04,3,*Legionalla pneumophila*,FALSE,NA
+2023-05-04,2,influenza A virus,FALSE,NA
+2023-05-04,2,influenza B virus,FALSE,NA
+2023-05-04,2,respiratory syncytial virus,FALSE,NA
+2023-05-04,2,*Human metapneumovirus*,FALSE,NA
+2023-05-04,2,human parainfluenza virus 1,FALSE,NA
+2023-05-04,2,human parainfluenza virus 2,FALSE,NA
+2023-05-04,2,human parainfluenza virus 3,FALSE,NA
+2023-05-04,2,human parainfluenza virus 4,FALSE,NA
+2023-05-04,2,human adenovirus,FALSE,NA
+2023-05-04,2,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-04,2,human cytomegalovirus,FALSE,NA
+2023-05-04,2,human parechovirus,FALSE,NA
+2023-05-04,2,*Human coronavirus NL63*,FALSE,NA
+2023-05-04,2,*Human coronavirus 229E*,FALSE,NA
+2023-05-04,2,*Human coronavirus OC43*,FALSE,NA
+2023-05-04,2,enterovirus D68,FALSE,NA
+2023-05-04,2,herpes simplex virus type 1,TRUE,37.1
+2023-05-04,2,herpes simplex virus type 2,FALSE,NA
+2023-05-04,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-04,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-04,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-04,2,*Coxiella burnetii*,FALSE,NA
+2023-05-04,2,MERS-CoV,FALSE,NA
+2023-05-04,2,*Pneumocystis jirovecii*,TRUE,34
+2023-05-04,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-05-04,2,*Chlamydia psittaci*,FALSE,NA
+2023-05-04,2,*Streptococcus pneumoniae*,TRUE,35.2
+2023-05-04,2,human bocavirus,FALSE,NA
+2023-05-04,2,*Legionalla pneumophila*,FALSE,NA
+2023-05-04,HVAC,influenza A virus,FALSE,NA
+2023-05-04,HVAC,influenza B virus,FALSE,NA
+2023-05-04,HVAC,respiratory syncytial virus,FALSE,NA
+2023-05-04,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-05-04,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-05-04,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-05-04,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-05-04,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-05-04,HVAC,human adenovirus,FALSE,NA
+2023-05-04,HVAC,human enterovirus (incl. rhinovirus),TRUE,38
+2023-05-04,HVAC,human cytomegalovirus,FALSE,NA
+2023-05-04,HVAC,human parechovirus,FALSE,NA
+2023-05-04,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-05-04,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-05-04,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-05-04,HVAC,enterovirus D68,FALSE,NA
+2023-05-04,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-05-04,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-05-04,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-04,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-04,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-04,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-05-04,HVAC,MERS-CoV,FALSE,NA
+2023-05-04,HVAC,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-04,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-05-04,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-05-04,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-04,HVAC,human bocavirus,FALSE,NA
+2023-05-04,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-05-11,1,influenza A virus,FALSE,NA
+2023-05-11,1,influenza B virus,FALSE,NA
+2023-05-11,1,respiratory syncytial virus,FALSE,NA
+2023-05-11,1,*Human metapneumovirus*,FALSE,NA
+2023-05-11,1,human parainfluenza virus 1,FALSE,NA
+2023-05-11,1,human parainfluenza virus 2,FALSE,NA
+2023-05-11,1,human parainfluenza virus 3,FALSE,NA
+2023-05-11,1,human parainfluenza virus 4,FALSE,NA
+2023-05-11,1,human adenovirus,FALSE,NA
+2023-05-11,1,human enterovirus (incl. rhinovirus),TRUE,37.9
+2023-05-11,1,human cytomegalovirus,FALSE,NA
+2023-05-11,1,human parechovirus,FALSE,NA
+2023-05-11,1,*Human coronavirus NL63*,FALSE,NA
+2023-05-11,1,*Human coronavirus 229E*,FALSE,NA
+2023-05-11,1,*Human coronavirus OC43*,FALSE,NA
+2023-05-11,1,enterovirus D68,FALSE,NA
+2023-05-11,1,herpes simplex virus type 1,FALSE,NA
+2023-05-11,1,herpes simplex virus type 2,FALSE,NA
+2023-05-11,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-11,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-11,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-11,1,*Coxiella burnetii*,FALSE,NA
+2023-05-11,1,MERS-CoV,FALSE,NA
+2023-05-11,1,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-11,1,*Chlamydia pneumoniae*,TRUE,42.1
+2023-05-11,1,*Chlamydia psittaci*,FALSE,NA
+2023-05-11,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-11,1,human bocavirus,FALSE,NA
+2023-05-11,1,*Legionalla pneumophila*,FALSE,NA
+2023-05-11,3,influenza A virus,FALSE,NA
+2023-05-11,3,influenza B virus,FALSE,NA
+2023-05-11,3,respiratory syncytial virus,FALSE,NA
+2023-05-11,3,*Human metapneumovirus*,FALSE,NA
+2023-05-11,3,human parainfluenza virus 1,FALSE,NA
+2023-05-11,3,human parainfluenza virus 2,FALSE,NA
+2023-05-11,3,human parainfluenza virus 3,FALSE,NA
+2023-05-11,3,human parainfluenza virus 4,FALSE,NA
+2023-05-11,3,human adenovirus,FALSE,NA
+2023-05-11,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-11,3,human cytomegalovirus,FALSE,NA
+2023-05-11,3,human parechovirus,FALSE,NA
+2023-05-11,3,*Human coronavirus NL63*,FALSE,NA
+2023-05-11,3,*Human coronavirus 229E*,FALSE,NA
+2023-05-11,3,*Human coronavirus OC43*,FALSE,NA
+2023-05-11,3,enterovirus D68,FALSE,NA
+2023-05-11,3,herpes simplex virus type 1,FALSE,NA
+2023-05-11,3,herpes simplex virus type 2,FALSE,NA
+2023-05-11,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-11,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-11,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-11,3,*Coxiella burnetii*,FALSE,NA
+2023-05-11,3,MERS-CoV,FALSE,NA
+2023-05-11,3,*Pneumocystis jirovecii*,FALSE,NA
+2023-05-11,3,*Chlamydia pneumoniae*,TRUE,41.4
+2023-05-11,3,*Chlamydia psittaci*,FALSE,NA
+2023-05-11,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-11,3,human bocavirus,FALSE,NA
+2023-05-11,3,*Legionalla pneumophila*,FALSE,NA
+2023-05-11,2,influenza A virus,FALSE,NA
+2023-05-11,2,influenza B virus,FALSE,NA
+2023-05-11,2,respiratory syncytial virus,FALSE,NA
+2023-05-11,2,*Human metapneumovirus*,FALSE,NA
+2023-05-11,2,human parainfluenza virus 1,FALSE,NA
+2023-05-11,2,human parainfluenza virus 2,FALSE,NA
+2023-05-11,2,human parainfluenza virus 3,FALSE,NA
+2023-05-11,2,human parainfluenza virus 4,FALSE,NA
+2023-05-11,2,human adenovirus,FALSE,NA
+2023-05-11,2,human enterovirus (incl. rhinovirus),TRUE,37.4
+2023-05-11,2,human cytomegalovirus,FALSE,NA
+2023-05-11,2,human parechovirus,FALSE,NA
+2023-05-11,2,*Human coronavirus NL63*,FALSE,NA
+2023-05-11,2,*Human coronavirus 229E*,FALSE,NA
+2023-05-11,2,*Human coronavirus OC43*,FALSE,NA
+2023-05-11,2,enterovirus D68,FALSE,NA
+2023-05-11,2,herpes simplex virus type 1,FALSE,NA
+2023-05-11,2,herpes simplex virus type 2,FALSE,NA
+2023-05-11,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-11,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-11,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-11,2,*Coxiella burnetii*,FALSE,NA
+2023-05-11,2,MERS-CoV,FALSE,NA
+2023-05-11,2,*Pneumocystis jirovecii*,TRUE,36.3
+2023-05-11,2,*Chlamydia pneumoniae*,TRUE,42.2
+2023-05-11,2,*Chlamydia psittaci*,FALSE,NA
+2023-05-11,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-11,2,human bocavirus,FALSE,NA
+2023-05-11,2,*Legionalla pneumophila*,FALSE,NA
+2023-05-11,HVAC,influenza A virus,FALSE,NA
+2023-05-11,HVAC,influenza B virus,FALSE,NA
+2023-05-11,HVAC,respiratory syncytial virus,FALSE,NA
+2023-05-11,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-05-11,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-05-11,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-05-11,HVAC,human parainfluenza virus 3,TRUE,37.8
+2023-05-11,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-05-11,HVAC,human adenovirus,FALSE,NA
+2023-05-11,HVAC,human enterovirus (incl. rhinovirus),TRUE,38
+2023-05-11,HVAC,human cytomegalovirus,FALSE,NA
+2023-05-11,HVAC,human parechovirus,FALSE,NA
+2023-05-11,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-05-11,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-05-11,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-05-11,HVAC,enterovirus D68,FALSE,NA
+2023-05-11,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-05-11,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-05-11,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-11,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-11,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-11,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-05-11,HVAC,MERS-CoV,FALSE,NA
+2023-05-11,HVAC,*Pneumocystis jirovecii*,TRUE,35.6
+2023-05-11,HVAC,*Chlamydia pneumoniae*,TRUE,38.9
+2023-05-11,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-05-11,HVAC,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-11,HVAC,human bocavirus,FALSE,NA
+2023-05-11,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-05-10,1,influenza A virus,FALSE,NA
+2023-05-10,1,influenza B virus,FALSE,NA
+2023-05-10,1,respiratory syncytial virus,FALSE,NA
+2023-05-10,1,*Human metapneumovirus*,FALSE,NA
+2023-05-10,1,human parainfluenza virus 1,FALSE,NA
+2023-05-10,1,human parainfluenza virus 2,FALSE,NA
+2023-05-10,1,human parainfluenza virus 3,FALSE,NA
+2023-05-10,1,human parainfluenza virus 4,FALSE,NA
+2023-05-10,1,human adenovirus,FALSE,NA
+2023-05-10,1,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-10,1,human cytomegalovirus,FALSE,NA
+2023-05-10,1,human parechovirus,FALSE,NA
+2023-05-10,1,*Human coronavirus NL63*,FALSE,NA
+2023-05-10,1,*Human coronavirus 229E*,FALSE,NA
+2023-05-10,1,*Human coronavirus OC43*,FALSE,NA
+2023-05-10,1,enterovirus D68,FALSE,NA
+2023-05-10,1,herpes simplex virus type 1,FALSE,NA
+2023-05-10,1,herpes simplex virus type 2,FALSE,NA
+2023-05-10,1,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-10,1,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-10,1,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-10,1,*Coxiella burnetii*,FALSE,NA
+2023-05-10,1,MERS-CoV,FALSE,NA
+2023-05-10,1,*Pneumocystis jirovecii*,TRUE,35.4
+2023-05-10,1,*Chlamydia pneumoniae*,TRUE,39.6
+2023-05-10,1,*Chlamydia psittaci*,FALSE,NA
+2023-05-10,1,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-10,1,human bocavirus,FALSE,NA
+2023-05-10,1,*Legionalla pneumophila*,FALSE,NA
+2023-05-10,3,influenza A virus,FALSE,NA
+2023-05-10,3,influenza B virus,FALSE,NA
+2023-05-10,3,respiratory syncytial virus,FALSE,NA
+2023-05-10,3,*Human metapneumovirus*,FALSE,NA
+2023-05-10,3,human parainfluenza virus 1,FALSE,NA
+2023-05-10,3,human parainfluenza virus 2,FALSE,NA
+2023-05-10,3,human parainfluenza virus 3,FALSE,NA
+2023-05-10,3,human parainfluenza virus 4,FALSE,NA
+2023-05-10,3,human adenovirus,FALSE,NA
+2023-05-10,3,human enterovirus (incl. rhinovirus),FALSE,NA
+2023-05-10,3,human cytomegalovirus,FALSE,NA
+2023-05-10,3,human parechovirus,FALSE,NA
+2023-05-10,3,*Human coronavirus NL63*,FALSE,NA
+2023-05-10,3,*Human coronavirus 229E*,FALSE,NA
+2023-05-10,3,*Human coronavirus OC43*,FALSE,NA
+2023-05-10,3,enterovirus D68,FALSE,NA
+2023-05-10,3,herpes simplex virus type 1,FALSE,NA
+2023-05-10,3,herpes simplex virus type 2,FALSE,NA
+2023-05-10,3,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-10,3,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-10,3,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-10,3,*Coxiella burnetii*,FALSE,NA
+2023-05-10,3,MERS-CoV,FALSE,NA
+2023-05-10,3,*Pneumocystis jirovecii*,TRUE,36.4
+2023-05-10,3,*Chlamydia pneumoniae*,FALSE,NA
+2023-05-10,3,*Chlamydia psittaci*,FALSE,NA
+2023-05-10,3,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-10,3,human bocavirus,FALSE,NA
+2023-05-10,3,*Legionalla pneumophila*,FALSE,NA
+2023-05-10,2,influenza A virus,FALSE,NA
+2023-05-10,2,influenza B virus,FALSE,NA
+2023-05-10,2,respiratory syncytial virus,FALSE,NA
+2023-05-10,2,*Human metapneumovirus*,FALSE,NA
+2023-05-10,2,human parainfluenza virus 1,FALSE,NA
+2023-05-10,2,human parainfluenza virus 2,FALSE,NA
+2023-05-10,2,human parainfluenza virus 3,FALSE,NA
+2023-05-10,2,human parainfluenza virus 4,FALSE,NA
+2023-05-10,2,human adenovirus,FALSE,NA
+2023-05-10,2,human enterovirus (incl. rhinovirus),TRUE,35.9
+2023-05-10,2,human cytomegalovirus,TRUE,36.4
+2023-05-10,2,human parechovirus,FALSE,NA
+2023-05-10,2,*Human coronavirus NL63*,FALSE,NA
+2023-05-10,2,*Human coronavirus 229E*,FALSE,NA
+2023-05-10,2,*Human coronavirus OC43*,FALSE,NA
+2023-05-10,2,enterovirus D68,FALSE,NA
+2023-05-10,2,herpes simplex virus type 1,FALSE,NA
+2023-05-10,2,herpes simplex virus type 2,FALSE,NA
+2023-05-10,2,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-10,2,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-10,2,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-10,2,*Coxiella burnetii*,FALSE,NA
+2023-05-10,2,MERS-CoV,FALSE,NA
+2023-05-10,2,*Pneumocystis jirovecii*,TRUE,36.2
+2023-05-10,2,*Chlamydia pneumoniae*,FALSE,NA
+2023-05-10,2,*Chlamydia psittaci*,FALSE,NA
+2023-05-10,2,*Streptococcus pneumoniae*,FALSE,NA
+2023-05-10,2,human bocavirus,FALSE,NA
+2023-05-10,2,*Legionalla pneumophila*,FALSE,NA
+2023-05-10,HVAC,influenza A virus,FALSE,NA
+2023-05-10,HVAC,influenza B virus,FALSE,NA
+2023-05-10,HVAC,respiratory syncytial virus,FALSE,NA
+2023-05-10,HVAC,*Human metapneumovirus*,FALSE,NA
+2023-05-10,HVAC,human parainfluenza virus 1,FALSE,NA
+2023-05-10,HVAC,human parainfluenza virus 2,FALSE,NA
+2023-05-10,HVAC,human parainfluenza virus 3,FALSE,NA
+2023-05-10,HVAC,human parainfluenza virus 4,FALSE,NA
+2023-05-10,HVAC,human adenovirus,FALSE,NA
+2023-05-10,HVAC,human enterovirus (incl. rhinovirus),TRUE,39
+2023-05-10,HVAC,human cytomegalovirus,FALSE,NA
+2023-05-10,HVAC,human parechovirus,FALSE,NA
+2023-05-10,HVAC,*Human coronavirus NL63*,FALSE,NA
+2023-05-10,HVAC,*Human coronavirus 229E*,FALSE,NA
+2023-05-10,HVAC,*Human coronavirus OC43*,FALSE,NA
+2023-05-10,HVAC,enterovirus D68,FALSE,NA
+2023-05-10,HVAC,herpes simplex virus type 1,FALSE,NA
+2023-05-10,HVAC,herpes simplex virus type 2,FALSE,NA
+2023-05-10,HVAC,SARS-CoV-2 (respiratory panel),FALSE,NA
+2023-05-10,HVAC,*Human coronavirus HKU-1*,FALSE,NA
+2023-05-10,HVAC,*Mycoplasma pneumoniae*,FALSE,NA
+2023-05-10,HVAC,*Coxiella burnetii*,FALSE,NA
+2023-05-10,HVAC,MERS-CoV,FALSE,NA
+2023-05-10,HVAC,*Pneumocystis jirovecii*,TRUE,36
+2023-05-10,HVAC,*Chlamydia pneumoniae*,FALSE,NA
+2023-05-10,HVAC,*Chlamydia psittaci*,FALSE,NA
+2023-05-10,HVAC,*Streptococcus pneumoniae*,TRUE,39.2
+2023-05-10,HVAC,human bocavirus,FALSE,NA
+2023-05-10,HVAC,*Legionalla pneumophila*,FALSE,NA
+2023-02-21,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,31.75
+2023-02-21,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.29
+2023-02-21,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,32.71
+2023-02-21,2,SARS-CoV-2 (TaqPath N-protein),TRUE,31.9
+2023-02-21,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.65
+2023-02-21,2,SARS-CoV-2 (TaqPath S-protein),TRUE,34.08
+2023-02-21,3,SARS-CoV-2 (TaqPath N-protein),TRUE,30.15
+2023-02-21,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.52
+2023-02-21,3,SARS-CoV-2 (TaqPath S-protein),TRUE,33.5
+2023-02-21,1,SARS-CoV-2 (TaqPath N-protein),TRUE,28.81
+2023-02-21,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,29.2
+2023-02-21,1,SARS-CoV-2 (TaqPath S-protein),TRUE,30.42
+2023-02-22,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.72
+2023-02-22,2,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-02-22,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-02-22,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,34.05
+2023-02-22,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-02-22,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-02-22,1,SARS-CoV-2 (TaqPath N-protein),TRUE,34.22
+2023-02-22,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-02-22,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-02-22,3,SARS-CoV-2 (TaqPath N-protein),TRUE,28.21
+2023-02-22,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,29.84
+2023-02-22,3,SARS-CoV-2 (TaqPath S-protein),TRUE,28.91
+2023-03-01,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,32.18
+2023-03-01,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.61
+2023-03-01,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-01,2,SARS-CoV-2 (TaqPath N-protein),TRUE,31.24
+2023-03-01,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.22
+2023-03-01,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-01,3,SARS-CoV-2 (TaqPath N-protein),TRUE,31.09
+2023-03-01,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.77
+2023-03-01,3,SARS-CoV-2 (TaqPath S-protein),TRUE,34.78
+2023-03-01,1,SARS-CoV-2 (TaqPath N-protein),TRUE,32.21
+2023-03-01,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.92
+2023-03-01,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-03,HVAC,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-03-03,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-03-03,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-03,3,SARS-CoV-2 (TaqPath N-protein),TRUE,31.31
+2023-03-03,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.56
+2023-03-03,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-03,1,SARS-CoV-2 (TaqPath N-protein),TRUE,34.8
+2023-03-03,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.62
+2023-03-03,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-03,2,SARS-CoV-2 (TaqPath N-protein),TRUE,33.12
+2023-03-03,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,28.49
+2023-03-03,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-13,HVAC,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-03-13,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-03-13,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-13,2,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-03-13,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.04
+2023-03-13,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-13,3,SARS-CoV-2 (TaqPath N-protein),TRUE,34.45
+2023-03-13,3,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-03-13,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-13,1,SARS-CoV-2 (TaqPath N-protein),TRUE,34.4
+2023-03-13,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.46
+2023-03-13,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-16,3,SARS-CoV-2 (TaqPath N-protein),TRUE,30.24
+2023-03-16,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,29.76
+2023-03-16,3,SARS-CoV-2 (TaqPath S-protein),TRUE,30.99
+2023-03-16,2,SARS-CoV-2 (TaqPath N-protein),TRUE,31.38
+2023-03-16,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.86
+2023-03-16,2,SARS-CoV-2 (TaqPath S-protein),TRUE,32.72
+2023-03-16,1,SARS-CoV-2 (TaqPath N-protein),TRUE,32.43
+2023-03-16,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.74
+2023-03-16,1,SARS-CoV-2 (TaqPath S-protein),TRUE,33.8
+2023-03-16,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,30.85
+2023-03-16,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,30.98
+2023-03-16,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,30.96
+2023-03-22,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,28.71
+2023-03-22,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,30.19
+2023-03-22,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,29.86
+2023-03-22,3,SARS-CoV-2 (TaqPath N-protein),TRUE,28.21
+2023-03-22,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,29.84
+2023-03-22,3,SARS-CoV-2 (TaqPath S-protein),TRUE,28.91
+2023-03-22,2,SARS-CoV-2 (TaqPath N-protein),TRUE,27.23
+2023-03-22,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.05
+2023-03-22,2,SARS-CoV-2 (TaqPath S-protein),TRUE,30.29
+2023-03-22,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.69
+2023-03-22,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.23
+2023-03-22,1,SARS-CoV-2 (TaqPath S-protein),TRUE,33.08
+2023-03-24,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,30.87
+2023-03-24,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.41
+2023-03-24,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,31.67
+2023-03-24,2,SARS-CoV-2 (TaqPath N-protein),TRUE,30.45
+2023-03-24,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.44
+2023-03-24,2,SARS-CoV-2 (TaqPath S-protein),TRUE,30.68
+2023-03-24,3,SARS-CoV-2 (TaqPath N-protein),TRUE,30.29
+2023-03-24,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,30.99
+2023-03-24,3,SARS-CoV-2 (TaqPath S-protein),TRUE,30.35
+2023-03-24,1,SARS-CoV-2 (TaqPath N-protein),TRUE,28.46
+2023-03-24,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,30.44
+2023-03-24,1,SARS-CoV-2 (TaqPath S-protein),TRUE,29.75
+2023-03-29,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.77
+2023-03-29,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.81
+2023-03-29,1,SARS-CoV-2 (TaqPath S-protein),TRUE,33.33
+2023-03-29,2,SARS-CoV-2 (TaqPath N-protein),TRUE,33.65
+2023-03-29,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.44
+2023-03-29,2,SARS-CoV-2 (TaqPath S-protein),TRUE,32.93
+2023-03-29,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,32.1
+2023-03-29,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.65
+2023-03-29,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,33.56
+2023-03-29,3,SARS-CoV-2 (TaqPath N-protein),TRUE,32.75
+2023-03-29,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.87
+2023-03-29,3,SARS-CoV-2 (TaqPath S-protein),TRUE,31.64
+2023-03-31,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.77
+2023-03-31,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.54
+2023-03-31,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-31,3,SARS-CoV-2 (TaqPath N-protein),TRUE,32.59
+2023-03-31,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.87
+2023-03-31,3,SARS-CoV-2 (TaqPath S-protein),TRUE,33.69
+2023-03-31,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.25
+2023-03-31,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.03
+2023-03-31,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-03-31,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,34.61
+2023-03-31,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.9
+2023-03-31,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-04,1,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-04,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.31
+2023-04-04,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-04,3,SARS-CoV-2 (TaqPath N-protein),TRUE,31.3
+2023-04-04,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.39
+2023-04-04,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-04,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.71
+2023-04-04,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.32
+2023-04-04,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-04,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,31.53
+2023-04-04,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.45
+2023-04-04,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-07,1,SARS-CoV-2 (TaqPath N-protein),TRUE,32.4
+2023-04-07,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-07,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-07,3,SARS-CoV-2 (TaqPath N-protein),TRUE,32.29
+2023-04-07,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.55
+2023-04-07,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-07,2,SARS-CoV-2 (TaqPath N-protein),TRUE,30.34
+2023-04-07,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.75
+2023-04-07,2,SARS-CoV-2 (TaqPath S-protein),TRUE,32.69
+2023-04-07,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,34.17
+2023-04-07,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.81
+2023-04-07,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-12,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.46
+2023-04-12,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.33
+2023-04-12,1,SARS-CoV-2 (TaqPath S-protein),TRUE,34.4
+2023-04-12,3,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-12,3,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-12,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-12,2,SARS-CoV-2 (TaqPath N-protein),TRUE,29.99
+2023-04-12,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.29
+2023-04-12,2,SARS-CoV-2 (TaqPath S-protein),TRUE,32.17
+2023-04-12,HVAC,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-12,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-12,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-14,1,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-14,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-14,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-14,3,SARS-CoV-2 (TaqPath N-protein),TRUE,31.84
+2023-04-14,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.19
+2023-04-14,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-14,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.76
+2023-04-14,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.2
+2023-04-14,2,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-14,HVAC,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-14,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-14,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-19,1,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-19,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-19,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-19,3,SARS-CoV-2 (TaqPath N-protein),TRUE,33.74
+2023-04-19,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.83
+2023-04-19,3,SARS-CoV-2 (TaqPath S-protein),TRUE,34.11
+2023-04-19,2,SARS-CoV-2 (TaqPath N-protein),TRUE,31.92
+2023-04-19,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.89
+2023-04-19,2,SARS-CoV-2 (TaqPath S-protein),TRUE,34
+2023-04-19,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,31.99
+2023-04-19,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-19,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,33.2
+2023-04-20,1,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-20,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-20,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-20,3,SARS-CoV-2 (TaqPath N-protein),TRUE,29.16
+2023-04-20,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,31.91
+2023-04-20,3,SARS-CoV-2 (TaqPath S-protein),TRUE,29.16
+2023-04-20,2,SARS-CoV-2 (TaqPath N-protein),TRUE,31.13
+2023-04-20,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.22
+2023-04-20,2,SARS-CoV-2 (TaqPath S-protein),TRUE,32.91
+2023-04-20,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,33.17
+2023-04-20,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-20,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,34.24
+2023-04-25,1,SARS-CoV-2 (TaqPath N-protein),TRUE,33.1
+2023-04-25,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-25,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-25,3,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-04-25,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.04
+2023-04-25,3,SARS-CoV-2 (TaqPath S-protein),TRUE,34.19
+2023-04-25,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.31
+2023-04-25,2,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-25,2,SARS-CoV-2 (TaqPath S-protein),TRUE,35.26
+2023-04-25,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,33.3
+2023-04-25,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.32
+2023-04-25,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-04-28,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.73
+2023-04-28,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.93
+2023-04-28,1,SARS-CoV-2 (TaqPath S-protein),TRUE,33.82
+2023-04-28,3,SARS-CoV-2 (TaqPath N-protein),TRUE,31.09
+2023-04-28,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.55
+2023-04-28,3,SARS-CoV-2 (TaqPath S-protein),TRUE,34.15
+2023-04-28,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.56
+2023-04-28,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.18
+2023-04-28,2,SARS-CoV-2 (TaqPath S-protein),TRUE,33.75
+2023-04-28,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,33.31
+2023-04-28,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-04-28,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-04,1,SARS-CoV-2 (TaqPath N-protein),TRUE,31.75
+2023-05-04,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.51
+2023-05-04,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-04,3,SARS-CoV-2 (TaqPath N-protein),TRUE,30.46
+2023-05-04,3,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.47
+2023-05-04,3,SARS-CoV-2 (TaqPath S-protein),TRUE,33.37
+2023-05-04,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.62
+2023-05-04,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.16
+2023-05-04,2,SARS-CoV-2 (TaqPath S-protein),TRUE,33.66
+2023-05-04,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,33.08
+2023-05-04,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,32.5
+2023-05-04,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,33.66
+2023-05-05,1,SARS-CoV-2 (TaqPath N-protein),TRUE,30.94
+2023-05-05,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,30.13
+2023-05-05,1,SARS-CoV-2 (TaqPath S-protein),TRUE,31.77
+2023-05-05,3,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-05-05,3,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-05,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-05,2,SARS-CoV-2 (TaqPath N-protein),TRUE,32.27
+2023-05-05,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,33.8
+2023-05-05,2,SARS-CoV-2 (TaqPath S-protein),TRUE,33.32
+2023-05-05,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,32.17
+2023-05-05,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,34.27
+2023-05-05,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,33.52
+2023-05-10,1,SARS-CoV-2 (TaqPath N-protein),TRUE,33.83
+2023-05-10,1,SARS-CoV-2 (TaqPath ORF1ab),TRUE,35.14
+2023-05-10,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-10,3,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-05-10,3,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-10,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-10,2,SARS-CoV-2 (TaqPath N-protein),TRUE,33.55
+2023-05-10,2,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-10,2,SARS-CoV-2 (TaqPath S-protein),TRUE,34.34
+2023-05-10,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,27.84
+2023-05-10,HVAC,SARS-CoV-2 (TaqPath ORF1ab),TRUE,28.29
+2023-05-10,HVAC,SARS-CoV-2 (TaqPath S-protein),TRUE,29.04
+2023-05-11,1,SARS-CoV-2 (TaqPath N-protein),FALSE,NA
+2023-05-11,1,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-11,1,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-11,3,SARS-CoV-2 (TaqPath N-protein),TRUE,35.26
+2023-05-11,3,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-11,3,SARS-CoV-2 (TaqPath S-protein),FALSE,NA
+2023-05-11,2,SARS-CoV-2 (TaqPath N-protein),TRUE,30.79
+2023-05-11,2,SARS-CoV-2 (TaqPath ORF1ab),TRUE,29.51
+2023-05-11,2,SARS-CoV-2 (TaqPath S-protein),TRUE,29.81
+2023-05-11,HVAC,SARS-CoV-2 (TaqPath N-protein),TRUE,35.27
+2023-05-11,HVAC,SARS-CoV-2 (TaqPath ORF1ab),FALSE,NA
+2023-05-11,HVAC,SARS-CoV-2 (TaqPath S-protein),FALSE,NA

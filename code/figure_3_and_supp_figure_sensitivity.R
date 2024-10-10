@@ -125,6 +125,7 @@ ggplot(sensitivity, aes(location, est, ymin=low, ymax=high, colour=colour)) +
   )
 
 ggsave("output/supp_figure_sensitivity.png", width=10, height=10)
+ggsave("output/supp_figure_sensitivity.pdf", width=10, height=10)
 
 # only frequently detected pathogens
 ggplot(filter(sensitivity,n>=10), aes(location, est, ymin=low, ymax=high, colour=colour)) +
@@ -148,4 +149,5 @@ ggplot(filter(sensitivity,n>=10), aes(location, est, ymin=low, ymax=high, colour
   )
 
 ggsave("output/figure_3.png", width=9, height=5)
+ggsave("output/figure_3.pdf", width=9, height=5)
 

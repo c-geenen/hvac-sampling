@@ -16,7 +16,7 @@ envir_data <- read_csv("input/environmental_data.csv") %>%
   filter(location!="roomAll")
   
 #################
-# Ct in air vs nose wipes
+# Ct in HVAC vs room
 ####################
 
 PCR_params <- read_csv("input/PCR_parameters.csv")
@@ -102,6 +102,7 @@ ct_plot <- ggplot(filter(test_data_recoded,!is.na(Ct_value)), aes(samplingDate_s
 ct_plot
 
 ggsave("output/supp_figure_ct_by_date.png", width=10, height=10)
+ggsave("output/supp_figure_ct_by_date.pdf", width=10, height=10)
 
 ##################
 # Heatmap
@@ -152,4 +153,5 @@ ggplot(select(heatmap_data, -detected_hvac), aes(samplingDate_str, pathogen, fil
   )
 
 ggsave("output/figure_2.png", width=8, height=4)
+ggsave("output/figure_2.pdf", width=8, height=4)
 

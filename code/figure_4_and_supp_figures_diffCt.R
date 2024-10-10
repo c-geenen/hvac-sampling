@@ -1,6 +1,6 @@
 library(tidyverse)
 library(ggtext)
-library(rjags)
+library(runjags)
 library(patchwork)
 
 PCR_parameters <- read_csv("input/PCR_parameters.csv")
@@ -10,30 +10,13 @@ PCR_parameters <- read_csv("input/PCR_parameters.csv")
 ##########################
 
 # get mean environmental variables from three room sensors by sampling day.
-envir_room_data <- read_csv("input/environmental_data.csv") %>%
+envir_data <- read_csv("input/environmental_data.csv") %>%
   filter(location!="HVAC") %>%
   group_by(samplingDate,variable) %>%
   summarise(
     mean=mean(mean, na.rm=T),
   ) %>%
   pivot_wider(names_from="variable",values_from="mean")
-
-# get HVAC environmental variables
-envir_hvac_data <- read_csv("input/environmental_data.csv") %>%
-  filter(location=="HVAC",variable!="flow",variable!="velocity") %>%
-  mutate(variable=paste0(variable,"_hvac")) %>%
-  pivot_wider(names_from="variable",values_from="mean") %>%
-  select(samplingDate,co2_hvac,humidity_hvac,temperature_hvac)
-  
-# combine environmental variables
-envir_data <- envir_room_data %>%
-  left_join( envir_hvac_data, by="samplingDate" ) %>%
-  mutate(
-    diff_temperature = temperature_hvac - temperature,
-    diff_co2 = co2_hvac - co2,
-    diff_humidity = humidity_hvac - humidity
-  ) %>%
-  select(-temperature_hvac,-co2_hvac,-humidity_hvac)
 
 ##############################
 # Organise test data
@@ -66,25 +49,6 @@ diff_ct_data <- read_csv("input/test_data.csv") %>%
 ####################
 # Determine censored intervals
 ####################
-
-# Function to determine lower end of possible Ct value range
-# (concentrations below the limit of detection being represented by the equivalent non-observable Ct value)
-# If a pathogen is not detected, we assume that the Ct value is somewhere between Ct_LOD and infinity.
-Ct_interval_low <- function(Ct, LOD) {
-  if_else(
-    !is.na(Ct),
-    Ct,
-    LOD # not detected: Ct is higher than Ct_LOD
-  )
-}
-# Function to determine upper end of Ct value range
-Ct_interval_high <- function(Ct, LOD) {
-  if_else(
-    !is.na(Ct),
-    Ct,
-    Inf # not detected
-  )
-}
 
 # Determine intervals of Ct_diff
 censored_data <- diff_ct_data %>%
@@ -125,8 +89,8 @@ plot_data <- censored_data %>%
     limit = fct_recode(limit, "Left censoring"="high","Right censoring"="low","Observed value"="known"),
     location = as.factor(parse_number(location)),
     Pathogen=pathogen,
-    `Room sampler location`=paste0("Location ",location),
-    `Overall`= 1
+    `Room sampler location`=reorder(paste0("Location ",location),desc(location)),
+    `Overall`= "All pathogens/locations"
   )
 xmin = min(plot_data$Ct_diff, na.rm=T)
 xmax = max(plot_data$Ct_diff, na.rm=T)
@@ -145,7 +109,7 @@ censored_plot_base <- ggplot(plot_data, aes(Ct_diff, shape=limit, size=limit, co
     panel.grid.major.y = element_blank()
   ) +
   geom_vline(xintercept = 0) +
-  labs(x="&Delta;C<sub>t, HVAC - room</sub>", colour="Room sampler location",
+  labs(x="&Delta;Ct", colour="Room sampler location",
        shape="Censoring", size="Censoring")
 
 # by pathogen
@@ -160,8 +124,7 @@ censored_plot_base <- ggplot(plot_data, aes(Ct_diff, shape=limit, size=limit, co
 
 # no differentiation (all locations and pathogens)
 (censored_plot_all <- censored_plot_base +
-  geom_jitter(aes(y = `Overall`), height=0.5, width=0, alpha=1)) +
-  theme(axis.title.y=element_blank())
+  geom_jitter(aes(y = `Overall`), height=0.2, width=0, alpha=1))
   
 # combined
 (censored_plot_all / censored_plot_ptn / censored_plot_loc) + plot_layout(guides = 'collect', heights=c(1,4,2))
@@ -211,8 +174,7 @@ censored_plot_base_alt <- ggplot(plot_data_observed, aes(Ct_diff, colour=locatio
   ) +
   geom_vline(xintercept = 0, alpha=0.5) +
   geom_vline(xintercept = c(xmin_alt-0.5,xmax_alt+0.5)) +
-  labs(x="&Delta;C<sub>t, HVAC - room</sub>",colour="Room sampler location",
-       shape="Censoring", size="Censoring")
+  labs(x="&Delta;Ct",colour="Room sampler location")
 
 # by pathogen
 ( censored_plot_ptn_alt <- censored_plot_base_alt +
@@ -226,8 +188,8 @@ censored_plot_base_alt <- ggplot(plot_data_observed, aes(Ct_diff, colour=locatio
     geom_jitter(data = plot_data_censored, aes(y = `Room sampler location`), height=0.2, width=0.5, alpha=0.5) )
 # all
 ( censored_plot_all_alt <- censored_plot_base_alt +
-    geom_jitter(aes(y = `Overall`), height=0.5, width=0, alpha=0.5) +
-    geom_jitter(data = plot_data_censored, aes(y = `Overall`), height=0.5, width=0.5, alpha=0.5) )
+    geom_jitter(aes(y = `Overall`), height=0.2, width=0, alpha=0.5) +
+    geom_jitter(data = plot_data_censored, aes(y = `Overall`), height=0.2, width=0.5, alpha=0.5) )
 # combined
 (censored_plot_all_alt / censored_plot_ptn_alt / censored_plot_loc_alt) + plot_layout(guides = 'collect', heights=c(1,4,2))
 
@@ -247,6 +209,14 @@ jags_data <- censored_data %>%
   arrange(censored)
 
 pathogen_list <- unique(jags_data$pathogen)
+
+# Set random number generator seeds
+inits <- list(
+  list(".RNG.name" = "base::Wichmann-Hill", ".RNG.seed" = 1),
+  list(".RNG.name" = "base::Marsaglia-Multicarry", ".RNG.seed" = 100),
+  list(".RNG.name" = "base::Super-Duper", ".RNG.seed" = 1000),
+  list(".RNG.name" = "base::Mersenne-Twister", ".RNG.seed" = 10000)
+)
 
 # Model with formula:
 # Ct_diff ~ intercept + (1|pathogen) + (1|day) + (1|loc)
@@ -277,7 +247,7 @@ model_code_all <-
     
     # Define weakly informative priors for fixed parts
     intercept ~ dnorm(0,0.01)
-    sigma ~ dunif(0,100)
+    sigma ~ dunif(0,100) # non-informative prior
     tau <- 1 / (sigma * sigma)
     
     # Define priors for random parts
@@ -293,9 +263,8 @@ model_code_all <-
     Ct_diff_all <- mu_all
   }"
 
-set.seed(1)
-jags_all <- jags.model(
-  textConnection(model_code_all),
+jags_all <- run.jags(
+  model = model_code_all,
   data = list(
     'Ct_diff' = jags_data$Ct_diff,
     'pathogen' = match(jags_data$pathogen, pathogen_list),
@@ -307,16 +276,18 @@ jags_all <- jags.model(
     'N_day' = length(unique(jags_data$samplingDate)),
     'loc' = match(jags_data$location, c("1","2","3"))
   ),
+  method = "parallel",
   n.chains = 4,
-  n.adapt = 10000
+  adapt = 10^4,
+  burnin = 10^4,
+  sample = 10^5,
+  inits = inits,
+  monitor = c('Ct_diff_all')
 )
-update(jags_all, 10^4)
 
-# Take samples from the posterior distribution of Ct_diff
-samples_Ct_diff_all <- coda.samples( jags_all, c('Ct_diff_all'), 10^5 )
-plot(samples_Ct_diff_all)
+plot(jags_all)
+(s_Ct_diff_all <- summary(jags_all$mcmc))
 
-(s_Ct_diff_all <- summary(samples_Ct_diff_all))
 post_dist_all <- as_tibble(t(s_Ct_diff_all$quantiles)) %>%
   mutate(
     `Overall`=1,
@@ -332,7 +303,7 @@ plot_all <- censored_plot_all +
   geom_errorbar(
     data=post_dist_all,
     aes(y=`Overall`, x=`50%`, xmin=`2.5%`,xmax=`97.5%`),
-    width=1.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
+    width=0.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
   ) +
   geom_point(
     data=post_dist_all,
@@ -347,15 +318,15 @@ plot_all_alt <- censored_plot_all_alt +
   geom_errorbar(
     data=post_dist_all,
     aes(y=`Overall`, x=`50%`, xmin=`2.5%`,xmax=`97.5%`),
-    width=1.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
+    width=0.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
   ) +
   geom_point(
     data=post_dist_all,
     aes(y=`Overall`, x=`50%`),
     colour="black",inherit.aes = F) +
   theme(
-    axis.title.x = element_blank(),
-    axis.text.x = element_blank()
+    #axis.title.x = element_blank(),
+    #axis.text.x = element_blank()
   )
 plot_all_alt
 
@@ -381,7 +352,7 @@ model_code_ptn <-
       mu[O+c] <- intercept + pn_coeff[pathogen[O+c]] + day_coeff[day[O+c]] + loc_coeff[loc[O+c]]
     }
     
-    # Random effect of day, loc, occ and dur
+    # Random effect of day, loc
     for (d in 1:N_day) {
       day_coeff[d] ~ dnorm(0, tau_day)
     }
@@ -411,10 +382,8 @@ model_code_ptn <-
     }
   }"
 
-# Define and update the model in JAGS
-set.seed(2)
-jags_ptn <- jags.model(
-  textConnection(model_code_ptn),
+jags_ptn <- run.jags(
+  model = model_code_ptn,
   data = list(
     'Ct_diff' = jags_data$Ct_diff,
     'pathogen' = match(jags_data$pathogen, pathogen_list),
@@ -426,17 +395,19 @@ jags_ptn <- jags.model(
     'N_day' = length(unique(jags_data$samplingDate)),
     'loc' = match(jags_data$location, c("1","2","3"))
   ),
+  method = "parallel",
   n.chains = 4,
-  n.adapt = 10000
+  adapt = 10^4,
+  burnin = 10^4,
+  sample = 10^5,
+  inits = inits,
+  monitor = c('Ct_diff_pn','intercept')
 )
-update(jags_ptn, 10^4)
 
-# Take samples from the posterior distribution of Ct_diff for each pathogen
-samples_Ct_diff_pn <- coda.samples( jags_ptn, c('Ct_diff_pn','intercept'), 10^5 )
-plot(samples_Ct_diff_pn)
+plot(jags_ptn$mcmc)
+(s_Ct_diff_pn <- summary(jags_ptn$mcmc))
 
 # summarise posterior distributions
-(s_Ct_diff_pn <- summary(samples_Ct_diff_pn))
 post_dist_ptn <- as_tibble(s_Ct_diff_pn$quantiles, rownames="parameter") %>%
   mutate( Pathogen = c(pathogen_list,NA) )
 post_dist_ptn
@@ -464,8 +435,8 @@ plot_ptn_alt <- censored_plot_ptn_alt +
   ) +
   geom_point(data=post_dist_ptn_alt, aes(y=Pathogen, x=`50%`), colour="black",inherit.aes = F) +
   theme(
-    axis.title.x = element_blank(),
-    axis.text.x = element_blank()
+    #axis.title.x = element_blank(),
+    #axis.text.x = element_blank()
   )
 plot_ptn_alt
 
@@ -521,9 +492,8 @@ model_code_loc <-
     }
   }"
 
-set.seed(3)
-jags_loc <- jags.model(
-  textConnection(model_code_loc),
+jags_loc <- run.jags(
+  model = model_code_loc,
   data = list(
     'Ct_diff' = jags_data$Ct_diff,
     'pathogen' = match(jags_data$pathogen, pathogen_list),
@@ -535,19 +505,25 @@ jags_loc <- jags.model(
     'N_day' = length(unique(jags_data$samplingDate)),
     'loc' = match(jags_data$location, c("1","2","3"))
   ),
+  method = "parallel",
   n.chains = 4,
-  n.adapt = 10000
+  adapt = 10^4,
+  burnin = 10^4,
+  sample = 10^5,
+  inits = inits,
+  monitor = c('Ct_diff_loc','intercept')
 )
-update(jags_loc, 10^4)
 
-# Take samples from the posterior distribution of Ct_diff for each location
-samples_Ct_diff_loc <- coda.samples( jags_loc, c('Ct_diff_loc','intercept'), 10^5 )
-plot(samples_Ct_diff_loc)
+plot(jags_loc$mcmc)
+(s_Ct_diff_loc <- summary(jags_loc$mcmc))
 
 # Summarise posterior distributions
-(s_Ct_diff_loc <- summary(samples_Ct_diff_loc))
 post_dist_loc <- as_tibble(s_Ct_diff_loc$quantiles, rownames="parameter") %>%
-  mutate( `Room sampler location` = c(1:3,NA) )
+  mutate(
+    location = c(1:3, 0),
+    `Room sampler location`=if_else(location==0,NA,paste0("Location ",location)),
+    `Room sampler location`=reorder(`Room sampler location`,desc(location))
+  )
 post_dist_loc
 write_csv(post_dist_loc,"output/model_location/post_dist.csv")
 post_dist_loc <- read_csv("output/model_location/post_dist.csv")
@@ -583,7 +559,7 @@ plot_loc_alt
 #########################@
 
 # Model with formula:
-# Ct_diff ~ intercept + co2 + occupancy + humidity + samplingDuration + hvacSamplerMoved + (1|location) + (1|pathogen) + (1|day)
+# Ct_diff ~ intercept + co2 + occupancy + humidity + samplingDuration + hvacSamplerMoved + location + pathogen + (1|day)
 model_code_envir <- 
   "model {
     # fully observed Ct_diff
@@ -628,9 +604,8 @@ model_code_envir <-
     sigma_day <- pow(tau_day,-1/2)
   }"
 
-set.seed(4)
-jags_envir <- jags.model(
-  textConnection(model_code_envir),
+jags_envir <- run.jags(
+  model = model_code_envir,
   data = list(
     'Ct_diff' = jags_data$Ct_diff,
     'pathogen' = match(jags_data$pathogen, pathogen_list),
@@ -643,34 +618,32 @@ jags_envir <- jags.model(
     'dur' = jags_data$samplingDuration,
     'hum' = jags_data$humidity,
     'temp' = jags_data$temperature, 
-    'moved' = jags_data$hvac_position_changed,
+    'moved' = if_else(jags_data$hvac_position_changed,1,0),
     'day' = match(jags_data$samplingDate, unique(jags_data$samplingDate)),
     'N_day' = length(unique(jags_data$samplingDate)),
     'loc' = match(jags_data$location, c("1","2","3"))
   ),
+  method = "parallel",
   n.chains = 4,
-  n.adapt = 10000,
+  adapt = 10^4,
+  burnin = 5 * 10^5,
+  sample = 5 * 10^6,
+  inits = inits,
+  monitor = c('intercept','occ_coeff','co2_coeff','temp_coeff',
+                                'hum_coeff','moved_coeff','dur_coeff'
+                                ,'loc_coeff','pn_coeff'
+                            )
 )
 
-update(jags_envir, 5*10^5)
-
-# Posterior distribution of each coefficient
-samples_coeff_envir <-
-  coda.samples( jags_envir,
-                c('intercept','occ_coeff','co2_coeff','temp_coeff',
-                  'hum_coeff','moved_coeff','dur_coeff'
-                  ,'loc_coeff','pn_coeff'
-                ), 5*10^6 )
-
-#save(samples_coeff_envir, file="output/model_envir/mcmc_output_envir_5mil.rda")
-#load("output/model_envir/mcmc_output_envir_5mil.rda")
+save(jags_envir, file="~/Documents/mcmc_output_envir_5mil.rda")
+load("~/Documents/mcmc_output_envir_5mil.rda")
 
 # create tibble of model output
 samples_envir_tibble <- NULL
 for (i in 1:4) {
   samples_envir_tibble <- bind_rows(
     samples_envir_tibble,
-    samples_coeff_envir[[i]] %>%
+    jags_envir$mcmc[[i]] %>%
       as_tibble %>%
       mutate(
         chain=as.factor(i),
@@ -678,7 +651,6 @@ for (i in 1:4) {
       )
   )
 }
-#write_csv(samples_envir_tibble,"output/model_envir/mcmc_output_envir_5mil.csv")
 
 trace_plot <- ggplot(filter(samples_envir_tibble,iteration%%10==0), aes(x=iteration, y=intercept, colour=chain)) +
   geom_line() +
@@ -691,6 +663,7 @@ density_plot <- ggplot(filter(samples_envir_tibble,iteration%%10==0), aes(x=inte
   labs(x="Modelled intercept", y="Density")
 trace_plot / density_plot + plot_layout(guides = 'collect')
 ggsave("output/model_envir/mcmc_output_envir.png", width=8, height=10)
+ggsave("output/model_envir/mcmc_output_envir.pdf", width=8, height=10)
 
 quantiles <- samples_envir_tibble %>%
   select(-chain,-iteration) %>%
@@ -727,10 +700,20 @@ print(post_dist_envir,n=50)
 write_csv(post_dist_envir,"output/model_envir/post_dist.csv")
 post_dist_envir <- read_csv("output/model_envir/post_dist.csv")
 
-plot_envir_all <- ggplot(post_dist_envir, aes(`50%`,change, xmin=`2.5%`,xmax=`97.5%`)) +
+post_dist_envir_plot <- post_dist_envir %>%
+  mutate(
+    order = case_when(
+      grepl("pn_coeff",parameter) ~ 3,
+      grepl("intercept",parameter) ~ 4,
+      grepl("loc_coeff",parameter) ~ 2,
+      .default = 1
+    ),
+    change = fct_reorder(change,desc(order))
+  )
+plot_envir_all <- ggplot(post_dist_envir_plot, aes(`50%`, change, xmin=`2.5%`,xmax=`97.5%`)) +
   geom_errorbar( colour="black") +
   geom_point( colour="black" ) +
-  labs(x="Effect on &Delta;Ct", y="Change in variable") +
+  labs(x="Change in &Delta;Ct", y="Change in variable") +
   theme_bw() +
   theme(
     axis.title.x=element_markdown()
@@ -740,6 +723,7 @@ plot_envir_all <- ggplot(post_dist_envir, aes(`50%`,change, xmin=`2.5%`,xmax=`97
 plot_envir_all
 
 ggsave("output/model_envir/Ct_diff_envir_coefficients_all.png", width=6, height=6)
+ggsave("output/model_envir/Ct_diff_envir_coefficients_all.pdf", width=6, height=6, device=cairo_pdf)
 
 summary_plot_post_dist <- post_dist_envir %>%
   filter(
@@ -750,7 +734,7 @@ summary_plot_post_dist <- post_dist_envir %>%
 plot_envir <- ggplot(summary_plot_post_dist, aes(`50%`,change, xmin=`2.5%`,xmax=`97.5%`)) +
   geom_errorbar( colour="black") +
   geom_point( colour="black" ) +
-  labs(x="Effect on &Delta;Ct", y="Change in variable") +
+  labs(x="Change in &Delta;Ct", y="Change in variable") +
   theme_bw() +
   theme(
     axis.title.x=element_markdown()
@@ -760,7 +744,7 @@ plot_envir <- ggplot(summary_plot_post_dist, aes(`50%`,change, xmin=`2.5%`,xmax=
 plot_envir
 
 ggsave("output/model_envir/Ct_diff_envir_coefficients_summary.png", width=6, height=2)
-
+ggsave("output/model_envir/Ct_diff_envir_coefficients_summary.pdf", width=6, height=2, device=cairo_pdf)
 
 #############################
 # combine plots
@@ -770,9 +754,141 @@ ggsave("output/model_envir/Ct_diff_envir_coefficients_summary.png", width=6, hei
   plot_layout(guides = 'collect', heights=c(1,5,2,2)) & plot_annotation(tag_levels = 'a', tag_suffix=".")
 
 ggsave("output/supp_figure_diffCt.png", width=10, height=10)
+ggsave("output/supp_figure_diffCt.pdf", width=10, height=10, device=cairo_pdf)
 
 (plot_all_alt / plot_ptn_alt / plot_loc_alt / plot_envir)  +
   plot_layout(guides = 'collect', heights=c(1,6,2,2)) & plot_annotation(tag_levels = 'a', tag_suffix=".") & theme(legend.position = 'top')
 
 ggsave("output/figure_4.png", width=8, height=10)
+ggsave("output/figure_4.pdf", width=8, height=10, device=cairo_pdf)
+
+
+#######################
+# Model Ct value difference
+# Seperate model for each pathogen
+# Fixed effects: -
+# Random effects: sampling day, room sampler location
+######################
+
+# Model with formula:
+# Ct_diff ~ intercept + (1|day) + (1|loc)
+model_code_ptn_sep <- 
+  "model {
+    # fully observed Ct_diff
+    for (o in 1:O) {
+      Ct_diff[o] ~ dnorm(mu[o], tau)
+      mu[o] <- intercept + day_coeff[day[o]] + loc_coeff[loc[o]]
+    }
+    # left or right censored Ct_diff
+    for (c in 1:C) {
+      Z[O+c] ~ dbern(p[c])
+      p[c] <- pnorm(Ct_diff[O+c], mu[O+c], tau)
+      mu[O+c] <- intercept + day_coeff[day[O+c]] + loc_coeff[loc[O+c]]
+    }
+    
+    # Random effect of day, loc
+    for (d in 1:N_day) {
+      day_coeff[d] ~ dnorm(0, tau_day)
+    }
+    for (l in 1:3) {
+      loc_coeff[l] ~ dnorm(0, tau_loc)
+    }
+    
+    # Define weakly informative priors for fixed parts
+    intercept ~ dnorm(0,0.01)
+    sigma ~ dunif(0,100)
+    tau <- 1 / (sigma * sigma)
+    
+    # Define priors for random parts
+    tau_day ~ dgamma(1.5, 1.0E-4)
+    sigma_day <- pow(tau_day,-1/2)
+    tau_loc ~ dgamma(1.5, 1.0E-4)
+    sigma_loc <- pow(tau_loc,-1/2)
+    
+    ## Predict the mean Ct_diff for the pathogen
+    mu_pn <- intercept
+    Ct_diff_pn <- mu_pn # for actual posterior distribution rather than distrubution of mean: ratio_pn[pn] ~ dnorm(mu_pn[pn],tau)
+  }"
+
+samples_tibble <- NULL
+post_dist_ptn_sep <- NULL
+for (p in pathogen_list) {
+  print(p)
+  ptn_data <- jags_data %>%
+    filter(pathogen==p)
+  
+  jags_ptn_sep <- run.jags(
+    model = model_code_ptn_sep,
+    data = list(
+      'Ct_diff' = ptn_data$Ct_diff,
+      'O' = sum(ptn_data$censored==F),
+      'C' = sum(ptn_data$censored==T),
+      'Z' = ptn_data$left_censored,
+      'day' = match(ptn_data$samplingDate, unique(ptn_data$samplingDate)),
+      'N_day' = length(unique(ptn_data$samplingDate)),
+      'loc' = match(ptn_data$location, c("1","2","3"))
+    ),
+    method = "parallel",
+    n.chains = 4,
+    adapt = 10^4,
+    burnin = 10^4,
+    sample = 10^5,
+    inits = inits,
+    monitor = c('Ct_diff_pn')
+  )
+  
+  # create tibble of model output
+  for (i in 1:4) {
+    samples_tibble <- bind_rows(
+      samples_tibble,
+      jags_ptn_sep$mcmc[[i]] %>%
+        as_tibble %>%
+        mutate(
+          chain=as.factor(i),
+          pathogen=p,
+          iteration=20001:120000
+        )
+    )
+  }
+  
+  # summarise posterior distributions
+  (summary <- summary(jags_ptn_sep$mcmc))
+  post_dist <- as_tibble(t(summary$quantiles)) %>%
+    mutate( Pathogen = p )
+  post_dist_ptn_sep <- bind_rows(post_dist_ptn_sep, post_dist)
+}
+
+write_csv(post_dist_ptn_sep,"output/model_pathogen_sep/post_dist.csv")
+post_dist_ptn_sep <- read_csv("output/model_pathogen_sep/post_dist.csv")
+
+ggplot(filter(samples_tibble,iteration%%10==0), aes(iteration,Ct_diff_pn,colour=chain)) +
+  geom_line() +
+  facet_wrap(~pathogen)
+
+plot_ptn_sep <- censored_plot_ptn +
+  geom_errorbar(
+    data=post_dist_ptn_sep,
+    aes(y=Pathogen, x=`50%`, xmin=`2.5%`,xmax=`97.5%`),
+    width=0.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
+  ) +
+  geom_point(data=post_dist_ptn_sep, aes(y=Pathogen, x=`50%`), colour="black",inherit.aes = F) +
+  coord_cartesian(xlim=c(-10,10))
+plot_ptn_sep
+
+ggsave("output/model_pathogen_sep/supp_figure_pathogen_sep.png", width=8, height=5)
+ggsave("output/model_pathogen_sep/supp_figure_pathogen_sep.pdf", width=8, height=5, device=cairo_pdf)
+
+post_dist_ptn_sep_alt <- post_dist_ptn_sep %>% filter(`2.5%`>xmin_alt, `97.5%`<xmax_alt)
+plot_ptn_sep_alt <- censored_plot_ptn_alt +
+  geom_errorbar(
+    data=post_dist_ptn_sep_alt,
+    aes(y=Pathogen, x=`50%`, xmin=`2.5%`,xmax=`97.5%`),
+    width=0.5, linewidth=0.5, colour="black", alpha=0.7, inherit.aes = F
+  ) +
+  geom_point(data=post_dist_ptn_sep_alt, aes(y=Pathogen, x=`50%`), colour="black",inherit.aes = F) +
+  theme(
+    axis.title.x = element_blank(),
+    axis.text.x = element_blank()
+  )
+plot_ptn_sep_alt
 

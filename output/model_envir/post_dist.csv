@@ -1,0 +1,28 @@
+parameter,2.5%,50%,97.5%,change,multiplier
+intercept,-9.23673025,6.83175,22.5161,intercept,1
+occ_coeff,-1.054924,-0.542544,-0.0380091950000003,20 more attendees,20
+co2_coeff,-0.429414,0.29475,1.013028,CO2 concentration 200ppm higher,200
+temp_coeff,-0.854341025,-0.0174883,0.8383670249999985,Temperature 1°C higher,1
+hum_coeff,-2.48188,-1.2794459999999999,-0.0907977950000003,Relative humidity 20% higher (absolute),20
+moved_coeff,-0.651604,0.709027,2.08142,HVAC sampler more central in duct,1
+dur_coeff,-3.874716,-2.352896,-0.871952,Sampling duration 6h instead of 2h,4
+loc_coeff[1],0,0,0,Location 1,1
+loc_coeff[2],0.091311895,0.981703,1.89134,Location 2,1
+loc_coeff[3],0.158698,1.03611,1.93709,Location 3,1
+pn_coeff[1],0,0,0,*Chlamydia pneumoniae*,1
+pn_coeff[2],-0.703871,0.6077684999999999,1.926020249999985,human enterovirus (incl. rhinovirus),1
+pn_coeff[3],-0.466379,0.766593,2.0101,*Pneumocystis jirovecii*,1
+pn_coeff[4],-5.80206,-3.33988,-1.07545,*Human coronavirus 229E*,1
+pn_coeff[5],-1.43115,0.274816,2.00803,herpes simplex virus type 1,1
+pn_coeff[6],-2.92464,-1.27095,0.343655,*Streptococcus pneumoniae*,1
+pn_coeff[7],0.08045828750000002,2.17366,4.34889,*Human coronavirus HKU-1*,1
+pn_coeff[8],-1.77341,0.787519,3.30285,human parainfluenza virus 3,1
+pn_coeff[9],-6.99508,-3.36862,0.1712790249999985,human parainfluenza virus 4,1
+pn_coeff[10],-0.513246,0.653554,1.82938,SARS-CoV-2 (TaqPath N-protein),1
+pn_coeff[11],-6.08001,4.28261,21.27180249999985,*Chlamydia psittaci*,1
+pn_coeff[12],-5.82579,-3.30206,-0.8997599750000015,human adenovirus,1
+pn_coeff[13],-3.181,6.19904,22.152,*Human coronavirus NL63*,1
+pn_coeff[14],-7.45093025,-3.37687,0.25656602499999853,respiratory syncytial virus,1
+pn_coeff[15],-3.18197,-0.143545,2.93332,human cytomegalovirus,1
+pn_coeff[16],-5.15562,-2.09348,0.507585,*Human coronavirus OC43*,1
+pn_coeff[17],-4.19202,5.47828,21.8096,human bocavirus,1
