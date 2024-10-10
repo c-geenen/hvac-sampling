@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/685130681.svg)](https://doi.org/10.5281/zenodo.13913435)
+
 ## Centralised air sampling from a ventilation system for the surveillance of respiratory pathogens
 The results of the paper can be reproduced with the code in this repository.
 
